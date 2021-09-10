@@ -23,7 +23,7 @@
       "brAfter": "MLP-text-bez1radku--0-12\nMLP-verse--12-12",
       "blockquote": "",
       "figure": "",
-      "em": "MLP-text--I\nMLP-text-bez1radku--I",
+      "em": "MLP-text--I\nMLP-text-bez1radku--I\nchar-style-override-1",
       "strong": "MLP-licence-paragraf\nMLP-tiraz-autor-a-nazev\nMLP-tiraz-podnazev",
       "remove": "",
       "ignore": ""
@@ -532,7 +532,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Eduard Štorch",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-10T10:57:18.526Z"
+      "modified": "2021-09-10T11:08:08.159Z"
     },
     "chapters": [
       {
@@ -874,6 +874,6 @@
       "user": "books-are-next",
       "repo": "lovci-mamutu"
     },
-    "generatedAt": 1631271439233
+    "generatedAt": 1631272089062
   }
 }
