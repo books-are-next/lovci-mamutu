@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Lovci mamutů",
@@ -7,7 +8,9 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-10T10:32:35.507Z",
       "languageCode": "cs",
-      "subtitle": "Román z pravěku"
+      "subtitle": "Román z pravěku",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven1-cast\nMLP-uroven2-kapitola",
@@ -33,7 +36,7 @@
         "filename": "lovci_mamutu_001.md",
         "xhtml": "lovci_mamutu_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -877,3 +880,4 @@
     "generatedAt": 1631272089062
   }
 }
+
