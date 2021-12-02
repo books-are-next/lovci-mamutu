@@ -1,0 +1,881 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Lovci mamutů",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Eduard Štorch",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-10T10:32:35.507Z",
+      "languageCode": "cs",
+      "subtitle": "Román z pravěku",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "elements": {
+      "title": "MLP-uroven1-cast\nMLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP-text-bez1radku--12-0\nMLP-verse--12-12",
+      "brAfter": "MLP-text-bez1radku--0-12\nMLP-verse--12-12",
+      "blockquote": "",
+      "figure": "",
+      "em": "MLP-text--I\nMLP-text-bez1radku--I\nchar-style-override-1",
+      "strong": "MLP-licence-paragraf\nMLP-tiraz-autor-a-nazev\nMLP-tiraz-podnazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "filename": "lovci_mamutu_001.md",
+        "xhtml": "lovci_mamutu_001.xhtml",
+        "id": 0,
+        "role": "cover",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_002.md",
+        "xhtml": "lovci_mamutu_002.xhtml",
+        "id": 1,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_003.md",
+        "xhtml": "lovci_mamutu_003.xhtml",
+        "id": 2,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_004.md",
+        "xhtml": "lovci_mamutu_004.xhtml",
+        "id": 3,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_005.md",
+        "xhtml": "lovci_mamutu_005.xhtml",
+        "id": 4,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "DÍL PRVNÍ\n    \n    NA BŘEHU DYJE",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_006.md",
+        "xhtml": "lovci_mamutu_006.xhtml",
+        "id": 5,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Morava je krásná země",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_007.md",
+        "xhtml": "lovci_mamutu_007.xhtml",
+        "id": 6,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Mladí lovci",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_008.md",
+        "xhtml": "lovci_mamutu_008.xhtml",
+        "id": 7,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Útok zubrů",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_009.md",
+        "xhtml": "lovci_mamutu_009.xhtml",
+        "id": 8,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "V táboře lovecké tlupy",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_010.md",
+        "xhtml": "lovci_mamutu_010.xhtml",
+        "id": 9,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Věstonická venuše",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_011.md",
+        "xhtml": "lovci_mamutu_011.xhtml",
+        "id": 10,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Mamuti",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_012.md",
+        "xhtml": "lovci_mamutu_012.xhtml",
+        "id": 11,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Ztracená kořist",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_013.md",
+        "xhtml": "lovci_mamutu_013.xhtml",
+        "id": 12,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "DÍL DRUHÝ\n    \n    V JESKYNI",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_014.md",
+        "xhtml": "lovci_mamutu_014.xhtml",
+        "id": 13,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Do nových lovišť",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_015.md",
+        "xhtml": "lovci_mamutu_015.xhtml",
+        "id": 14,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Lumíci",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_016.md",
+        "xhtml": "lovci_mamutu_016.xhtml",
+        "id": 15,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Boj s medvědem",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_017.md",
+        "xhtml": "lovci_mamutu_017.xhtml",
+        "id": 16,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Ohnivý kámen",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_018.md",
+        "xhtml": "lovci_mamutu_018.xhtml",
+        "id": 17,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "V zimě",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_019.md",
+        "xhtml": "lovci_mamutu_019.xhtml",
+        "id": 18,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Lev",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_020.md",
+        "xhtml": "lovci_mamutu_020.xhtml",
+        "id": 19,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "V jícnu Macochy",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_021.md",
+        "xhtml": "lovci_mamutu_021.xhtml",
+        "id": 20,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "DÍL TŘETÍ\n    \n    NA KŘIŽOVATCE\n    PRAVĚKÉHO LIDSTVA",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_022.md",
+        "xhtml": "lovci_mamutu_022.xhtml",
+        "id": 21,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Před Moravskou bránou",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_023.md",
+        "xhtml": "lovci_mamutu_023.xhtml",
+        "id": 22,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "V zajetí",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_024.md",
+        "xhtml": "lovci_mamutu_024.xhtml",
+        "id": 23,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Útěk",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_025.md",
+        "xhtml": "lovci_mamutu_025.xhtml",
+        "id": 24,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Za tlupou",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_026.md",
+        "xhtml": "lovci_mamutu_026.xhtml",
+        "id": 25,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Návrat",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_027.md",
+        "xhtml": "lovci_mamutu_027.xhtml",
+        "id": 26,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Velký boj",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_028.md",
+        "xhtml": "lovci_mamutu_028.xhtml",
+        "id": 27,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "DÍL ČTVRTÝ\n    \n    VE STŘEDNÍCH\n    ČECHÁCH",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_029.md",
+        "xhtml": "lovci_mamutu_029.xhtml",
+        "id": 28,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Uloupená dívka",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_030.md",
+        "xhtml": "lovci_mamutu_030.xhtml",
+        "id": 29,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Na Zlatém potoce",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_031.md",
+        "xhtml": "lovci_mamutu_031.xhtml",
+        "id": 30,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Vyhaslé ohniště",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_032.md",
+        "xhtml": "lovci_mamutu_032.xhtml",
+        "id": 31,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Na výpravě",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_033.md",
+        "xhtml": "lovci_mamutu_033.xhtml",
+        "id": 32,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Statečný jinoch",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_034.md",
+        "xhtml": "lovci_mamutu_034.xhtml",
+        "id": 33,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Nový oheň",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_035.md",
+        "xhtml": "lovci_mamutu_035.xhtml",
+        "id": 34,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "DÍL PÁTÝ\n    \n    NA BÍLÉ SKÁLE",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_036.md",
+        "xhtml": "lovci_mamutu_036.xhtml",
+        "id": 35,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Hoch a mamut",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_037.md",
+        "xhtml": "lovci_mamutu_037.xhtml",
+        "id": 36,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Na mamuta",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_038.md",
+        "xhtml": "lovci_mamutu_038.xhtml",
+        "id": 37,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Za ohněm",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_039.md",
+        "xhtml": "lovci_mamutu_039.xhtml",
+        "id": 38,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Divocí koně",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_040.md",
+        "xhtml": "lovci_mamutu_040.xhtml",
+        "id": 39,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Výměnný obchod",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_041.md",
+        "xhtml": "lovci_mamutu_041.xhtml",
+        "id": 40,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Vyzvědači",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_042.md",
+        "xhtml": "lovci_mamutu_042.xhtml",
+        "id": 41,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Cizí lovci",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_043.md",
+        "xhtml": "lovci_mamutu_043.xhtml",
+        "id": 42,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Hlad",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_044.md",
+        "xhtml": "lovci_mamutu_044.xhtml",
+        "id": 43,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Vynález ohně",
+        "subtitle": ""
+      },
+      {
+        "filename": "lovci_mamutu_045.md",
+        "xhtml": "lovci_mamutu_045.xhtml",
+        "id": 44,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Lovci mamutů",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Eduard Štorch",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-12-02T13:20:08.609Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_001.md",
+        "xhtml": "lovci_mamutu_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_002.md",
+        "xhtml": "lovci_mamutu_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_003.md",
+        "xhtml": "lovci_mamutu_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_004.md",
+        "xhtml": "lovci_mamutu_004.xhtml"
+      },
+      {
+        "titleSuggest": "DÍL PRVNÍ\n    \n    NA BŘEHU DYJE",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_005.md",
+        "xhtml": "lovci_mamutu_005.xhtml"
+      },
+      {
+        "titleSuggest": "Morava je krásná země",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_006.md",
+        "xhtml": "lovci_mamutu_006.xhtml"
+      },
+      {
+        "titleSuggest": "Mladí lovci",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_007.md",
+        "xhtml": "lovci_mamutu_007.xhtml"
+      },
+      {
+        "titleSuggest": "Útok zubrů",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_008.md",
+        "xhtml": "lovci_mamutu_008.xhtml"
+      },
+      {
+        "titleSuggest": "V táboře lovecké tlupy",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_009.md",
+        "xhtml": "lovci_mamutu_009.xhtml"
+      },
+      {
+        "titleSuggest": "Věstonická venuše",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_010.md",
+        "xhtml": "lovci_mamutu_010.xhtml"
+      },
+      {
+        "titleSuggest": "Mamuti",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_011.md",
+        "xhtml": "lovci_mamutu_011.xhtml"
+      },
+      {
+        "titleSuggest": "Ztracená kořist",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_012.md",
+        "xhtml": "lovci_mamutu_012.xhtml"
+      },
+      {
+        "titleSuggest": "DÍL DRUHÝ\n    \n    V JESKYNI",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_013.md",
+        "xhtml": "lovci_mamutu_013.xhtml"
+      },
+      {
+        "titleSuggest": "Do nových lovišť",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_014.md",
+        "xhtml": "lovci_mamutu_014.xhtml"
+      },
+      {
+        "titleSuggest": "Lumíci",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_015.md",
+        "xhtml": "lovci_mamutu_015.xhtml"
+      },
+      {
+        "titleSuggest": "Boj s medvědem",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_016.md",
+        "xhtml": "lovci_mamutu_016.xhtml"
+      },
+      {
+        "titleSuggest": "Ohnivý kámen",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_017.md",
+        "xhtml": "lovci_mamutu_017.xhtml"
+      },
+      {
+        "titleSuggest": "V zimě",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_018.md",
+        "xhtml": "lovci_mamutu_018.xhtml"
+      },
+      {
+        "titleSuggest": "Lev",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_019.md",
+        "xhtml": "lovci_mamutu_019.xhtml"
+      },
+      {
+        "titleSuggest": "V jícnu Macochy",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_020.md",
+        "xhtml": "lovci_mamutu_020.xhtml"
+      },
+      {
+        "titleSuggest": "DÍL TŘETÍ\n    \n    NA KŘIŽOVATCE\n    PRAVĚKÉHO LIDSTVA",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_021.md",
+        "xhtml": "lovci_mamutu_021.xhtml"
+      },
+      {
+        "titleSuggest": "Před Moravskou bránou",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_022.md",
+        "xhtml": "lovci_mamutu_022.xhtml"
+      },
+      {
+        "titleSuggest": "V zajetí",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_023.md",
+        "xhtml": "lovci_mamutu_023.xhtml"
+      },
+      {
+        "titleSuggest": "Útěk",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_024.md",
+        "xhtml": "lovci_mamutu_024.xhtml"
+      },
+      {
+        "titleSuggest": "Za tlupou",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_025.md",
+        "xhtml": "lovci_mamutu_025.xhtml"
+      },
+      {
+        "titleSuggest": "Návrat",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_026.md",
+        "xhtml": "lovci_mamutu_026.xhtml"
+      },
+      {
+        "titleSuggest": "Velký boj",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_027.md",
+        "xhtml": "lovci_mamutu_027.xhtml"
+      },
+      {
+        "titleSuggest": "DÍL ČTVRTÝ\n    \n    VE STŘEDNÍCH\n    ČECHÁCH",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_028.md",
+        "xhtml": "lovci_mamutu_028.xhtml"
+      },
+      {
+        "titleSuggest": "Uloupená dívka",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_029.md",
+        "xhtml": "lovci_mamutu_029.xhtml"
+      },
+      {
+        "titleSuggest": "Na Zlatém potoce",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_030.md",
+        "xhtml": "lovci_mamutu_030.xhtml"
+      },
+      {
+        "titleSuggest": "Vyhaslé ohniště",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_031.md",
+        "xhtml": "lovci_mamutu_031.xhtml"
+      },
+      {
+        "titleSuggest": "Na výpravě",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_032.md",
+        "xhtml": "lovci_mamutu_032.xhtml"
+      },
+      {
+        "titleSuggest": "Statečný jinoch",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_033.md",
+        "xhtml": "lovci_mamutu_033.xhtml"
+      },
+      {
+        "titleSuggest": "Nový oheň",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_034.md",
+        "xhtml": "lovci_mamutu_034.xhtml"
+      },
+      {
+        "titleSuggest": "DÍL PÁTÝ\n    \n    NA BÍLÉ SKÁLE",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_035.md",
+        "xhtml": "lovci_mamutu_035.xhtml"
+      },
+      {
+        "titleSuggest": "Hoch a mamut",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_036.md",
+        "xhtml": "lovci_mamutu_036.xhtml"
+      },
+      {
+        "titleSuggest": "Na mamuta",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_037.md",
+        "xhtml": "lovci_mamutu_037.xhtml"
+      },
+      {
+        "titleSuggest": "Za ohněm",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_038.md",
+        "xhtml": "lovci_mamutu_038.xhtml"
+      },
+      {
+        "titleSuggest": "Divocí koně",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_039.md",
+        "xhtml": "lovci_mamutu_039.xhtml"
+      },
+      {
+        "titleSuggest": "Výměnný obchod",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_040.md",
+        "xhtml": "lovci_mamutu_040.xhtml"
+      },
+      {
+        "titleSuggest": "Vyzvědači",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_041.md",
+        "xhtml": "lovci_mamutu_041.xhtml"
+      },
+      {
+        "titleSuggest": "Cizí lovci",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_042.md",
+        "xhtml": "lovci_mamutu_042.xhtml"
+      },
+      {
+        "titleSuggest": "Hlad",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_043.md",
+        "xhtml": "lovci_mamutu_043.xhtml"
+      },
+      {
+        "titleSuggest": "Vynález ohně",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_044.md",
+        "xhtml": "lovci_mamutu_044.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lovci_mamutu_045.md",
+        "xhtml": "lovci_mamutu_045.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/lovci_mamu_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_lovci_mamutu_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-pozn-pod-carou",
+      "MLP-text",
+      "MLP-text--I",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-bez1radku--I",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-tiraz-podnazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-podnazev",
+      "MLP-uroven1-cast",
+      "MLP-uroven2-kapitola",
+      "MLP-verse--12-12",
+      "char-style-override-1",
+      "char-style-override-2",
+      "char-style-override-3",
+      "char-style-override-5",
+      "footnote",
+      "footnote-anchor",
+      "footnote-link",
+      "footnotes",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "lovci-mamutu"
+    },
+    "generatedAt": 1638451209478
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Lovci mamutů",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Eduard Štorch",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-12-02T13:20:08.609Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.8.1"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lovci_mamutu_045.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/lovci_mamu_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_lovci_mamutu_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "DÍL PRVNÍ: NA BŘEHU DYJE",
+      "children": [
+        {
+          "title": "Morava je krásná země",
+          "href": "OEBPS/Text/lovci_mamutu_006.xhtml#toc_marker-1-1"
+        },
+        {
+          "title": "Mladí lovci",
+          "href": "OEBPS/Text/lovci_mamutu_007.xhtml#toc_marker-1-2"
+        },
+        {
+          "title": "Útok zubrů",
+          "href": "OEBPS/Text/lovci_mamutu_008.xhtml#toc_marker-1-3"
+        },
+        {
+          "title": "V táboře lovecké tlupy",
+          "href": "OEBPS/Text/lovci_mamutu_009.xhtml#toc_marker-1-4"
+        },
+        {
+          "title": "Věstonická venuše",
+          "href": "OEBPS/Text/lovci_mamutu_010.xhtml#toc_marker-1-5"
+        },
+        {
+          "title": "Mamuti",
+          "href": "OEBPS/Text/lovci_mamutu_011.xhtml#toc_marker-1-6"
+        },
+        {
+          "title": "Ztracená kořist",
+          "href": "OEBPS/Text/lovci_mamutu_012.xhtml#toc_marker-1-7"
+        }
+      ],
+      "href": "OEBPS/Text/lovci_mamutu_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "DÍL DRUHÝ: V JESKYNI",
+      "children": [
+        {
+          "title": "Do nových lovišť",
+          "href": "OEBPS/Text/lovci_mamutu_014.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "Lumíci",
+          "href": "OEBPS/Text/lovci_mamutu_015.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "Boj s medvědem",
+          "href": "OEBPS/Text/lovci_mamutu_016.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "Ohnivý kámen",
+          "href": "OEBPS/Text/lovci_mamutu_017.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "V zimě",
+          "href": "OEBPS/Text/lovci_mamutu_018.xhtml#toc_marker-2-5"
+        },
+        {
+          "title": "Lev",
+          "href": "OEBPS/Text/lovci_mamutu_019.xhtml#toc_marker-2-6"
+        },
+        {
+          "title": "V jícnu Macochy",
+          "href": "OEBPS/Text/lovci_mamutu_020.xhtml#toc_marker-2-7"
+        }
+      ],
+      "href": "OEBPS/Text/lovci_mamutu_013.xhtml#toc_marker-2"
+    },
+    {
+      "title": "DÍL TŘETÍ: NA KŘIŽOVATCE PRAVĚKÉHO LIDSTVA",
+      "children": [
+        {
+          "title": "Před Moravskou bránou",
+          "href": "OEBPS/Text/lovci_mamutu_022.xhtml#toc_marker-3-1"
+        },
+        {
+          "title": "V zajetí",
+          "href": "OEBPS/Text/lovci_mamutu_023.xhtml#toc_marker-3-2"
+        },
+        {
+          "title": "Útěk",
+          "href": "OEBPS/Text/lovci_mamutu_024.xhtml#toc_marker-3-3"
+        },
+        {
+          "title": "Za tlupou",
+          "href": "OEBPS/Text/lovci_mamutu_025.xhtml#toc_marker-3-4"
+        },
+        {
+          "title": "Návrat",
+          "href": "OEBPS/Text/lovci_mamutu_026.xhtml#toc_marker-3-5"
+        },
+        {
+          "title": "Velký boj",
+          "href": "OEBPS/Text/lovci_mamutu_027.xhtml#toc_marker-3-6"
+        }
+      ],
+      "href": "OEBPS/Text/lovci_mamutu_021.xhtml#toc_marker-3"
+    },
+    {
+      "title": "DÍL ČTVRTÝ: VE STŘEDNÍCH ČECHÁCH",
+      "children": [
+        {
+          "title": "Uloupená dívka",
+          "href": "OEBPS/Text/lovci_mamutu_029.xhtml#toc_marker-4-1"
+        },
+        {
+          "title": "Na Zlatém potoce",
+          "href": "OEBPS/Text/lovci_mamutu_030.xhtml#toc_marker-4-2"
+        },
+        {
+          "title": "Vyhaslé ohniště",
+          "href": "OEBPS/Text/lovci_mamutu_031.xhtml#toc_marker-4-3"
+        },
+        {
+          "title": "Na výpravě",
+          "href": "OEBPS/Text/lovci_mamutu_032.xhtml#toc_marker-4-4"
+        },
+        {
+          "title": "Statečný jinoch",
+          "href": "OEBPS/Text/lovci_mamutu_033.xhtml#toc_marker-4-5"
+        },
+        {
+          "title": "Nový oheň",
+          "href": "OEBPS/Text/lovci_mamutu_034.xhtml#toc_marker-4-6"
+        }
+      ],
+      "href": "OEBPS/Text/lovci_mamutu_028.xhtml#toc_marker-4"
+    },
+    {
+      "title": "DÍL PÁTÝ: NA BÍLÉ SKÁLE",
+      "children": [
+        {
+          "title": "Hoch a mamut",
+          "href": "OEBPS/Text/lovci_mamutu_036.xhtml#toc_marker-5-1"
+        },
+        {
+          "title": "Na mamuta",
+          "href": "OEBPS/Text/lovci_mamutu_037.xhtml#toc_marker-5-2"
+        },
+        {
+          "title": "Za ohněm",
+          "href": "OEBPS/Text/lovci_mamutu_038.xhtml#toc_marker-5-3"
+        },
+        {
+          "title": "Divocí koně",
+          "href": "OEBPS/Text/lovci_mamutu_039.xhtml#toc_marker-5-4"
+        },
+        {
+          "title": "Výměnný obchod",
+          "href": "OEBPS/Text/lovci_mamutu_040.xhtml#toc_marker-5-5"
+        },
+        {
+          "title": "Vyzvědači",
+          "href": "OEBPS/Text/lovci_mamutu_041.xhtml#toc_marker-5-6"
+        },
+        {
+          "title": "Cizí lovci",
+          "href": "OEBPS/Text/lovci_mamutu_042.xhtml#toc_marker-5-7"
+        },
+        {
+          "title": "Hlad",
+          "href": "OEBPS/Text/lovci_mamutu_043.xhtml#toc_marker-5-8"
+        },
+        {
+          "title": "Vynález ohně",
+          "href": "OEBPS/Text/lovci_mamutu_044.xhtml#toc_marker-5-9"
+        }
+      ],
+      "href": "OEBPS/Text/lovci_mamutu_035.xhtml#toc_marker-5"
+    }
+  ]
+}

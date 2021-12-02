@@ -1,110 +1,47 @@
 {
   "author": "Eduard Štorch",
-  "identifier": "storch-lovci-mamutu-e3268e3",
+  "edition": "beletrie",
+  "identifier": "storch-lovci-mamutu-830b81e",
   "languagecode": "cs",
   "modified": "2021-09-10T10:32:35.507Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "subtitle": "Román z pravěku",
   "title": "Lovci mamutů",
-  "revision": "e3268e3",
+  "revision": "830b81e",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:11:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638378672303
+    "date": "Thu Dec 02 2021 13:21:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638451266705
   },
   "documents": [
     {
-      "title": "",
-      "file": "colophon.html",
-      "words": 148,
-      "chars": 965,
-      "ideas": 24,
-      "role": "colophon",
-      "order": null,
-      "next": "lovci_mamutu_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title-",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title--1",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "lovci_mamutu_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "lovci_mamutu_001.html",
+      "title": "Lovci mamutů",
+      "file": "lovci_mamutu_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "lovci_mamutu_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "lovci_mamutu_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "lovci_mamutu_001.html",
       "next": "lovci_mamutu_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DÍL PRVNÍ\n    \n    NA BŘEHU DYJE",
+      "title": "DÍL PRVNÍ\n    \n    NA BŘEHU DYJE • Lovci mamutů",
       "file": "lovci_mamutu_005.html",
-      "words": 6,
+      "words": 5,
       "chars": 22,
-      "ideas": 3,
+      "ideas": 2,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "lovci_mamutu_002.html",
       "next": "lovci_mamutu_006.html",
       "toc": [
@@ -112,19 +49,19 @@
           "index": 0,
           "level": 1,
           "name": "DÍL PRVNÍ\nNA BŘEHU DYJE",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Morava je krásná země",
+      "title": "Morava je krásná země • Lovci mamutů",
       "file": "lovci_mamutu_006.html",
       "words": 177,
       "chars": 1132,
       "ideas": 4,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "lovci_mamutu_005.html",
       "next": "lovci_mamutu_007.html",
       "toc": [
@@ -132,19 +69,19 @@
           "index": 0,
           "level": 1,
           "name": "Morava je krásná země",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Mladí lovci",
+      "title": "Mladí lovci • Lovci mamutů",
       "file": "lovci_mamutu_007.html",
       "words": 1598,
       "chars": 9498,
       "ideas": 43,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "lovci_mamutu_006.html",
       "next": "lovci_mamutu_008.html",
       "toc": [
@@ -152,19 +89,19 @@
           "index": 0,
           "level": 1,
           "name": "Mladí lovci",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Útok zubrů",
+      "title": "Útok zubrů • Lovci mamutů",
       "file": "lovci_mamutu_008.html",
       "words": 2563,
       "chars": 15015,
       "ideas": 80,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "lovci_mamutu_007.html",
       "next": "lovci_mamutu_009.html",
       "toc": [
@@ -172,19 +109,19 @@
           "index": 0,
           "level": 1,
           "name": "Útok zubrů",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "V táboře lovecké tlupy",
+      "title": "V táboře lovecké tlupy • Lovci mamutů",
       "file": "lovci_mamutu_009.html",
       "words": 2160,
-      "chars": 12739,
+      "chars": 12742,
       "ideas": 64,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "lovci_mamutu_008.html",
       "next": "lovci_mamutu_010.html",
       "toc": [
@@ -192,19 +129,19 @@
           "index": 0,
           "level": 1,
           "name": "V táboře lovecké tlupy",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Věstonická venuše",
+      "title": "Věstonická venuše • Lovci mamutů",
       "file": "lovci_mamutu_010.html",
       "words": 2296,
-      "chars": 13506,
+      "chars": 13507,
       "ideas": 89,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "lovci_mamutu_009.html",
       "next": "lovci_mamutu_011.html",
       "toc": [
@@ -212,19 +149,19 @@
           "index": 0,
           "level": 1,
           "name": "Věstonická venuše",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Mamuti",
+      "title": "Mamuti • Lovci mamutů",
       "file": "lovci_mamutu_011.html",
       "words": 1808,
       "chars": 10675,
       "ideas": 69,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "lovci_mamutu_010.html",
       "next": "lovci_mamutu_012.html",
       "toc": [
@@ -232,19 +169,19 @@
           "index": 0,
           "level": 1,
           "name": "Mamuti",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ztracená kořist",
+      "title": "Ztracená kořist • Lovci mamutů",
       "file": "lovci_mamutu_012.html",
       "words": 2482,
       "chars": 15059,
       "ideas": 78,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "lovci_mamutu_011.html",
       "next": "lovci_mamutu_013.html",
       "toc": [
@@ -252,19 +189,19 @@
           "index": 0,
           "level": 1,
           "name": "Ztracená kořist",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DÍL DRUHÝ\n    \n    V JESKYNI",
+      "title": "DÍL DRUHÝ\n    \n    V JESKYNI • Lovci mamutů",
       "file": "lovci_mamutu_013.html",
-      "words": 5,
+      "words": 4,
       "chars": 18,
-      "ideas": 3,
+      "ideas": 2,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "lovci_mamutu_012.html",
       "next": "lovci_mamutu_014.html",
       "toc": [
@@ -272,19 +209,19 @@
           "index": 0,
           "level": 1,
           "name": "DÍL DRUHÝ\nV JESKYNI",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Do nových lovišť",
+      "title": "Do nových lovišť • Lovci mamutů",
       "file": "lovci_mamutu_014.html",
       "words": 3060,
-      "chars": 18535,
+      "chars": 18536,
       "ideas": 80,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "lovci_mamutu_013.html",
       "next": "lovci_mamutu_015.html",
       "toc": [
@@ -292,19 +229,19 @@
           "index": 0,
           "level": 1,
           "name": "Do nových lovišť",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Lumíci",
+      "title": "Lumíci • Lovci mamutů",
       "file": "lovci_mamutu_015.html",
       "words": 1982,
       "chars": 11569,
       "ideas": 90,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "lovci_mamutu_014.html",
       "next": "lovci_mamutu_016.html",
       "toc": [
@@ -312,19 +249,19 @@
           "index": 0,
           "level": 1,
           "name": "Lumíci",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Boj s medvědem",
+      "title": "Boj s medvědem • Lovci mamutů",
       "file": "lovci_mamutu_016.html",
       "words": 1847,
       "chars": 11112,
       "ideas": 72,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "lovci_mamutu_015.html",
       "next": "lovci_mamutu_017.html",
       "toc": [
@@ -332,19 +269,19 @@
           "index": 0,
           "level": 1,
           "name": "Boj s medvědem",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ohnivý kámen",
+      "title": "Ohnivý kámen • Lovci mamutů",
       "file": "lovci_mamutu_017.html",
       "words": 2583,
-      "chars": 15570,
+      "chars": 15573,
       "ideas": 105,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "lovci_mamutu_016.html",
       "next": "lovci_mamutu_018.html",
       "toc": [
@@ -352,19 +289,19 @@
           "index": 0,
           "level": 1,
           "name": "Ohnivý kámen",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "V zimě",
+      "title": "V zimě • Lovci mamutů",
       "file": "lovci_mamutu_018.html",
       "words": 2266,
       "chars": 13295,
       "ideas": 88,
       "role": "chapter",
-      "order": 15,
+      "order": 14,
       "prev": "lovci_mamutu_017.html",
       "next": "lovci_mamutu_019.html",
       "toc": [
@@ -372,19 +309,19 @@
           "index": 0,
           "level": 1,
           "name": "V zimě",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Lev",
+      "title": "Lev • Lovci mamutů",
       "file": "lovci_mamutu_019.html",
       "words": 1529,
       "chars": 8906,
       "ideas": 71,
       "role": "chapter",
-      "order": 16,
+      "order": 15,
       "prev": "lovci_mamutu_018.html",
       "next": "lovci_mamutu_020.html",
       "toc": [
@@ -392,19 +329,19 @@
           "index": 0,
           "level": 1,
           "name": "Lev",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "V jícnu Macochy",
+      "title": "V jícnu Macochy • Lovci mamutů",
       "file": "lovci_mamutu_020.html",
       "words": 2500,
-      "chars": 14604,
+      "chars": 14605,
       "ideas": 118,
       "role": "chapter",
-      "order": 17,
+      "order": 16,
       "prev": "lovci_mamutu_019.html",
       "next": "lovci_mamutu_021.html",
       "toc": [
@@ -412,39 +349,39 @@
           "index": 0,
           "level": 1,
           "name": "V jícnu Macochy",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DÍL TŘETÍ\n    \n    NA KŘIŽOVATCE\n    PRAVĚKÉHO LIDSTVA",
+      "title": "DÍL TŘETÍ\n    \n    NA KŘIŽOVATCE\n    PRAVĚKÉHO LIDSTVA • Lovci mamutů",
       "file": "lovci_mamutu_021.html",
-      "words": 8,
+      "words": 6,
       "chars": 39,
-      "ideas": 5,
+      "ideas": 3,
       "role": "chapter",
-      "order": 18,
+      "order": 17,
       "prev": "lovci_mamutu_020.html",
       "next": "lovci_mamutu_022.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "DÍL TŘETÍ\n\nNA KŘIŽOVATCE\nPRAVĚKÉHO LIDSTVA",
-          "id": "chunk1",
+          "name": "DÍL TŘETÍ\nNA KŘIŽOVATCE\nPRAVĚKÉHO LIDSTVA",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Před Moravskou bránou",
+      "title": "Před Moravskou bránou • Lovci mamutů",
       "file": "lovci_mamutu_022.html",
       "words": 2309,
       "chars": 14157,
       "ideas": 104,
       "role": "chapter",
-      "order": 19,
+      "order": 18,
       "prev": "lovci_mamutu_021.html",
       "next": "lovci_mamutu_023.html",
       "toc": [
@@ -452,19 +389,19 @@
           "index": 0,
           "level": 1,
           "name": "Před Moravskou bránou",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "V zajetí",
+      "title": "V zajetí • Lovci mamutů",
       "file": "lovci_mamutu_023.html",
       "words": 880,
       "chars": 5091,
       "ideas": 39,
       "role": "chapter",
-      "order": 20,
+      "order": 19,
       "prev": "lovci_mamutu_022.html",
       "next": "lovci_mamutu_024.html",
       "toc": [
@@ -472,19 +409,19 @@
           "index": 0,
           "level": 1,
           "name": "V zajetí",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Útěk",
+      "title": "Útěk • Lovci mamutů",
       "file": "lovci_mamutu_024.html",
       "words": 1858,
       "chars": 10929,
       "ideas": 92,
       "role": "chapter",
-      "order": 21,
+      "order": 20,
       "prev": "lovci_mamutu_023.html",
       "next": "lovci_mamutu_025.html",
       "toc": [
@@ -492,19 +429,19 @@
           "index": 0,
           "level": 1,
           "name": "Útěk",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Za tlupou",
+      "title": "Za tlupou • Lovci mamutů",
       "file": "lovci_mamutu_025.html",
       "words": 1325,
       "chars": 7472,
       "ideas": 71,
       "role": "chapter",
-      "order": 22,
+      "order": 21,
       "prev": "lovci_mamutu_024.html",
       "next": "lovci_mamutu_026.html",
       "toc": [
@@ -512,19 +449,19 @@
           "index": 0,
           "level": 1,
           "name": "Za tlupou",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Návrat",
+      "title": "Návrat • Lovci mamutů",
       "file": "lovci_mamutu_026.html",
       "words": 681,
       "chars": 3928,
       "ideas": 43,
       "role": "chapter",
-      "order": 23,
+      "order": 22,
       "prev": "lovci_mamutu_025.html",
       "next": "lovci_mamutu_027.html",
       "toc": [
@@ -532,19 +469,19 @@
           "index": 0,
           "level": 1,
           "name": "Návrat",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Velký boj",
+      "title": "Velký boj • Lovci mamutů",
       "file": "lovci_mamutu_027.html",
       "words": 3354,
-      "chars": 20504,
+      "chars": 20502,
       "ideas": 130,
       "role": "chapter",
-      "order": 24,
+      "order": 23,
       "prev": "lovci_mamutu_026.html",
       "next": "lovci_mamutu_028.html",
       "toc": [
@@ -552,39 +489,39 @@
           "index": 0,
           "level": 1,
           "name": "Velký boj",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DÍL ČTVRTÝ\n    \n    VE STŘEDNÍCH\n    ČECHÁCH",
+      "title": "DÍL ČTVRTÝ\n    \n    VE STŘEDNÍCH\n    ČECHÁCH • Lovci mamutů",
       "file": "lovci_mamutu_028.html",
-      "words": 7,
+      "words": 5,
       "chars": 29,
-      "ideas": 5,
+      "ideas": 3,
       "role": "chapter",
-      "order": 25,
+      "order": 24,
       "prev": "lovci_mamutu_027.html",
       "next": "lovci_mamutu_029.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "DÍL ČTVRTÝ\n\nVE STŘEDNÍCH\nČECHÁCH",
-          "id": "chunk1",
+          "name": "DÍL ČTVRTÝ\nVE STŘEDNÍCH\nČECHÁCH",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Uloupená dívka",
+      "title": "Uloupená dívka • Lovci mamutů",
       "file": "lovci_mamutu_029.html",
       "words": 1559,
       "chars": 9237,
       "ideas": 49,
       "role": "chapter",
-      "order": 26,
+      "order": 25,
       "prev": "lovci_mamutu_028.html",
       "next": "lovci_mamutu_030.html",
       "toc": [
@@ -592,19 +529,19 @@
           "index": 0,
           "level": 1,
           "name": "Uloupená dívka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Na Zlatém potoce",
+      "title": "Na Zlatém potoce • Lovci mamutů",
       "file": "lovci_mamutu_030.html",
       "words": 1500,
       "chars": 8767,
       "ideas": 67,
       "role": "chapter",
-      "order": 27,
+      "order": 26,
       "prev": "lovci_mamutu_029.html",
       "next": "lovci_mamutu_031.html",
       "toc": [
@@ -612,19 +549,19 @@
           "index": 0,
           "level": 1,
           "name": "Na Zlatém potoce",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Vyhaslé ohniště",
+      "title": "Vyhaslé ohniště • Lovci mamutů",
       "file": "lovci_mamutu_031.html",
       "words": 1528,
       "chars": 9225,
       "ideas": 87,
       "role": "chapter",
-      "order": 28,
+      "order": 27,
       "prev": "lovci_mamutu_030.html",
       "next": "lovci_mamutu_032.html",
       "toc": [
@@ -632,19 +569,19 @@
           "index": 0,
           "level": 1,
           "name": "Vyhaslé ohniště",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Na výpravě",
+      "title": "Na výpravě • Lovci mamutů",
       "file": "lovci_mamutu_032.html",
       "words": 3101,
       "chars": 18781,
       "ideas": 138,
       "role": "chapter",
-      "order": 29,
+      "order": 28,
       "prev": "lovci_mamutu_031.html",
       "next": "lovci_mamutu_033.html",
       "toc": [
@@ -652,19 +589,19 @@
           "index": 0,
           "level": 1,
           "name": "Na výpravě",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Statečný jinoch",
+      "title": "Statečný jinoch • Lovci mamutů",
       "file": "lovci_mamutu_033.html",
       "words": 1612,
       "chars": 9647,
       "ideas": 71,
       "role": "chapter",
-      "order": 30,
+      "order": 29,
       "prev": "lovci_mamutu_032.html",
       "next": "lovci_mamutu_034.html",
       "toc": [
@@ -672,19 +609,19 @@
           "index": 0,
           "level": 1,
           "name": "Statečný jinoch",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Nový oheň",
+      "title": "Nový oheň • Lovci mamutů",
       "file": "lovci_mamutu_034.html",
       "words": 2348,
       "chars": 13982,
       "ideas": 126,
       "role": "chapter",
-      "order": 31,
+      "order": 30,
       "prev": "lovci_mamutu_033.html",
       "next": "lovci_mamutu_035.html",
       "toc": [
@@ -692,19 +629,19 @@
           "index": 0,
           "level": 1,
           "name": "Nový oheň",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DÍL PÁTÝ\n    \n    NA BÍLÉ SKÁLE",
+      "title": "DÍL PÁTÝ\n    \n    NA BÍLÉ SKÁLE • Lovci mamutů",
       "file": "lovci_mamutu_035.html",
-      "words": 6,
+      "words": 5,
       "chars": 21,
-      "ideas": 3,
+      "ideas": 2,
       "role": "chapter",
-      "order": 32,
+      "order": 31,
       "prev": "lovci_mamutu_034.html",
       "next": "lovci_mamutu_036.html",
       "toc": [
@@ -712,19 +649,19 @@
           "index": 0,
           "level": 1,
           "name": "DÍL PÁTÝ\nNA BÍLÉ SKÁLE",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Hoch a mamut",
+      "title": "Hoch a mamut • Lovci mamutů",
       "file": "lovci_mamutu_036.html",
       "words": 1837,
       "chars": 11007,
       "ideas": 63,
       "role": "chapter",
-      "order": 33,
+      "order": 32,
       "prev": "lovci_mamutu_035.html",
       "next": "lovci_mamutu_037.html",
       "toc": [
@@ -732,19 +669,19 @@
           "index": 0,
           "level": 1,
           "name": "Hoch a mamut",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Na mamuta",
+      "title": "Na mamuta • Lovci mamutů",
       "file": "lovci_mamutu_037.html",
       "words": 2068,
-      "chars": 12414,
+      "chars": 12413,
       "ideas": 89,
       "role": "chapter",
-      "order": 34,
+      "order": 33,
       "prev": "lovci_mamutu_036.html",
       "next": "lovci_mamutu_038.html",
       "toc": [
@@ -752,19 +689,19 @@
           "index": 0,
           "level": 1,
           "name": "Na mamuta",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Za ohněm",
+      "title": "Za ohněm • Lovci mamutů",
       "file": "lovci_mamutu_038.html",
       "words": 1772,
       "chars": 10679,
       "ideas": 72,
       "role": "chapter",
-      "order": 35,
+      "order": 34,
       "prev": "lovci_mamutu_037.html",
       "next": "lovci_mamutu_039.html",
       "toc": [
@@ -772,19 +709,19 @@
           "index": 0,
           "level": 1,
           "name": "Za ohněm",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Divocí koně",
+      "title": "Divocí koně • Lovci mamutů",
       "file": "lovci_mamutu_039.html",
       "words": 1159,
       "chars": 6915,
       "ideas": 40,
       "role": "chapter",
-      "order": 36,
+      "order": 35,
       "prev": "lovci_mamutu_038.html",
       "next": "lovci_mamutu_040.html",
       "toc": [
@@ -792,19 +729,19 @@
           "index": 0,
           "level": 1,
           "name": "Divocí koně",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Výměnný obchod",
+      "title": "Výměnný obchod • Lovci mamutů",
       "file": "lovci_mamutu_040.html",
       "words": 968,
-      "chars": 5937,
+      "chars": 5936,
       "ideas": 27,
       "role": "chapter",
-      "order": 37,
+      "order": 36,
       "prev": "lovci_mamutu_039.html",
       "next": "lovci_mamutu_041.html",
       "toc": [
@@ -812,19 +749,19 @@
           "index": 0,
           "level": 1,
           "name": "Výměnný obchod",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Vyzvědači",
+      "title": "Vyzvědači • Lovci mamutů",
       "file": "lovci_mamutu_041.html",
       "words": 2465,
       "chars": 14781,
       "ideas": 70,
       "role": "chapter",
-      "order": 38,
+      "order": 37,
       "prev": "lovci_mamutu_040.html",
       "next": "lovci_mamutu_042.html",
       "toc": [
@@ -832,19 +769,19 @@
           "index": 0,
           "level": 1,
           "name": "Vyzvědači",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Cizí lovci",
+      "title": "Cizí lovci • Lovci mamutů",
       "file": "lovci_mamutu_042.html",
       "words": 2305,
-      "chars": 13873,
+      "chars": 13872,
       "ideas": 114,
       "role": "chapter",
-      "order": 39,
+      "order": 38,
       "prev": "lovci_mamutu_041.html",
       "next": "lovci_mamutu_043.html",
       "toc": [
@@ -852,19 +789,19 @@
           "index": 0,
           "level": 1,
           "name": "Cizí lovci",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Hlad",
+      "title": "Hlad • Lovci mamutů",
       "file": "lovci_mamutu_043.html",
       "words": 1575,
-      "chars": 9243,
+      "chars": 9242,
       "ideas": 68,
       "role": "chapter",
-      "order": 40,
+      "order": 39,
       "prev": "lovci_mamutu_042.html",
       "next": "lovci_mamutu_044.html",
       "toc": [
@@ -872,53 +809,62 @@
           "index": 0,
           "level": 1,
           "name": "Hlad",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Vynález ohně",
+      "title": "Vynález ohně • Lovci mamutů",
       "file": "lovci_mamutu_044.html",
       "words": 978,
       "chars": 5867,
       "ideas": 44,
       "role": "chapter",
-      "order": 41,
+      "order": 40,
       "prev": "lovci_mamutu_043.html",
-      "next": null,
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Vynález ohně",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
+      "title": "Tiráž • Lovci mamutů",
+      "file": "colophon.html",
+      "words": 145,
+      "chars": 952,
+      "ideas": 23,
+      "role": "colophon",
       "order": null,
-      "next": "lovci_mamutu_001.html",
-      "toc": []
+      "prev": "lovci_mamutu_044.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 66213,
-      "chars": 394745,
-      "ideas": 2698
+      "words": 66209,
+      "chars": 394771,
+      "ideas": 2694
     },
     "chapters": {
-      "words": 66065,
-      "chars": 393780,
-      "ideas": 2674
+      "words": 66058,
+      "chars": 393783,
+      "ideas": 2667
     }
   }
 }
