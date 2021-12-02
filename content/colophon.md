@@ -15,7 +15,7 @@ Eduard Štorch
 
 Znění tohoto textu vychází z díla [Lovci mamutů](https://search.mlp.cz/cz/titul/lovci-mamutu/3379857/) tak, jak bylo vydáno nakladatelstvím Albatros v Praze v roce 2010. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
-**§**
+§
 
 Text díla (Eduard Štorch: Lovci mamutů), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), je vázán autorskými právy a jeho použití je definováno [Autorským zákonem](https://www.mkcr.cz/predpisy-zakonu-709.html) č. 121/2000 Sb.
 
