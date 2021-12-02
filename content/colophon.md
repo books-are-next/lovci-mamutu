@@ -1,6 +1,8 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Lovci mamutů
 
@@ -9,9 +11,7 @@ Román z pravěku
 Eduard Štorch
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Lovci mamutů](https://search.mlp.cz/cz/titul/lovci-mamutu/3379857/) tak, jak bylo vydáno nakladatelstvím Albatros v Praze v roce 2010. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -30,9 +30,7 @@ Verze 1.0 z 3. 1. 2020.
 ![image002.jpg](./resources/image002_fmt.png)
 
 
----
-title: ''
----
+***
 
 **Eduard Štorch  
 Lovci mamutů**

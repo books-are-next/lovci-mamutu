@@ -38,11 +38,11 @@ Jeho slova účinkovala. Teprve teď si lovci uvědomili, co provedli. Všichni 
 
 Mamutík nechal své druhy, aby se svářili, našel si velkou lopatkovou kost a jal se vyklízet bláto ze studánky. Vlčí dráp a Ukmas mu přišli pomáhat. Čilá Žabka a černá Paluša vybíraly rukama žlábek, aby kalná voda mohla odtékat. To se zalíbilo i jiným dětem a brzy se kolem studánky pracovníků jen hemžilo.
 
-Mamutík přivalil velký kámen a zapustil jej na okraj vybrané studánky. Ještě několika kameny ji opevnil, aby se nebořila, když si k ní někdo klekne.[1](#footnote-35106-1) Zase bude čistá voda ve studánce!
+Mamutík přivalil velký kámen a zapustil jej na okraj vybrané studánky. Ještě několika kameny ji opevnil, aby se nebořila, když si k ní někdo klekne.[^1] Zase bude čistá voda ve studánce!
 
 Vybrané bláto se ovšem dětem hned hodilo, aby se jím pomazaly. Alespoň je nebudou štípat komáři. Zejména hoši se rádi takto pomalovávali – vždyť pak vypadají jako velcí lovci po hojném lovu. Děvčata si natřela jen tváře a po těle si namalovala několik čar – to stačí pro parádu.
 
-Tuhé kousky žluté hlíny se dětem zase hodily na všelijaké umělecké výtvory. Nadělaly zvířátek, že jich bylo za chvíli na vedlejším skalisku plno.[2](#footnote-35106-2) Žabka nejraději plácala medvědy. Jeden stál na zadních nohách, druhý lezl po skále, jiný se drbal nohou v týle. Krušanka vytvořila roztomilé lišky s ohromnými ohony.
+Tuhé kousky žluté hlíny se dětem zase hodily na všelijaké umělecké výtvory. Nadělaly zvířátek, že jich bylo za chvíli na vedlejším skalisku plno.[^2] Žabka nejraději plácala medvědy. Jeden stál na zadních nohách, druhý lezl po skále, jiný se drbal nohou v týle. Krušanka vytvořila roztomilé lišky s ohromnými ohony.
 
 Přiběhl i Veverčák, jemuž kluci už úplně zubra rozbili, a hned se dal do práce. Uhnětl velikého mamuta. Kly se mu však nedařily. Uválel je sice dobře na stehně, ale když je mamutovi zasadil, ohýbaly se a padaly k zemi. Po několika marných pokusech odhodil Veverčák měkké kly a mamut byl bez nich. I tak byl hezký – jak říkala všecka děvčata.
 
@@ -108,7 +108,7 @@ Beze všeho domlouvání vzali Njan, Vlčí dráp a Mamutík tělo ženy a pol
 
 Každý člen tlupy si zajišťoval přízeň mrtvé do budoucna a další dobrý styk s ní nějakým dárkem. Házeli do ohniště pazourkové nástroje nebo obětovali své drobné ozdůbky z mušliček, kostiček a zubů. Někteří přinesli ze stanů své oblíbené hračky – pěkně barevné kamínky, které při loveckém putování světem někde vzbudily jejich pozornost a zvědavost. To vše měla Niana nyní na sobě.
 
-Njan přivlekl ještě velikou mamutí lopatku a tou tělo přikryl. Hned potom všichni přítomní pohazovali hrob hlínou.[3](#footnote-35106-3) Zbylo jí tu ještě dost po vyčištění studánky. I celé drny přinášeli – a za chvíli už není Nianu vidět pod příkrovem hlíny.
+Njan přivlekl ještě velikou mamutí lopatku a tou tělo přikryl. Hned potom všichni přítomní pohazovali hrob hlínou.[^3] Zbylo jí tu ještě dost po vyčištění studánky. I celé drny přinášeli – a za chvíli už není Nianu vidět pod příkrovem hlíny.
 
 Bílý dým stoupá sloupem k obloze…
 
@@ -126,8 +126,8 @@ Zdáli zaznívá vytí vlků a hyen. Za Pavlovskými vrchy vystupuje černý mr
 
   
 
-[1](#footnote-35106-1-backlink) Kameny obložená studánka byla objevena v táboře věstonické tlupy ro­ku 1937 v hloubce pěti metrů pod nynějším povrchem.
+[^1]: Kameny obložená studánka byla objevena v táboře věstonické tlupy ro­ku 1937 v hloubce pěti metrů pod nynějším povrchem.
 
-[2](#footnote-35106-2-backlink) Zvířecí figurky z pálené hlíny byly nalezeny při výkopech roku 1924–1925 a roku 1934–1935.
+[^2]: Zvířecí figurky z pálené hlíny byly nalezeny při výkopech roku 1924–1925 a roku 1934–1935.
 
-[3](#footnote-35106-3-backlink) Tento památný hrob byl objeven 4. listopadu roku 1927.
+[^3]: Tento památný hrob byl objeven 4. listopadu roku 1927.

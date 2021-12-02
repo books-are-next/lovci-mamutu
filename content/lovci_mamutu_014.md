@@ -122,7 +122,7 @@ V tlupě je těžký smutek.
 
   
 
-Druhého dne vyhledali mrtvolu nebohého Klucha, jemuž nosorožec rozpáral břicho. Pochovali ho nedaleko místa jeho smrti, někde uprostřed mezi kopcem Špilberkem a křivotokou Svitavou. Nechali mu jeho skvostný náhrdelník: několik set trubiček z přiřezaných lasturek a kostěných koleček, navlečených na tenkém řemínku.[5](#footnote-35106-5) Nežli byl hrob zasypán, položila uplakaná Kluchova družka k mrtvému panáka na půl lokte vysokého, kterého kdysi Kluch pracně vyřezal z mamutího klu. Žena nosila tuto loutku jako kouzlo stále ve vaku, nikdy se od ní neodloučila a věřila, že se jí mocí toho kouzla narodí veselý klučina. Teď v pláči kladla loutku do hrobu a loučila se se všemi svými nadějemi.
+Druhého dne vyhledali mrtvolu nebohého Klucha, jemuž nosorožec rozpáral břicho. Pochovali ho nedaleko místa jeho smrti, někde uprostřed mezi kopcem Špilberkem a křivotokou Svitavou. Nechali mu jeho skvostný náhrdelník: několik set trubiček z přiřezaných lasturek a kostěných koleček, navlečených na tenkém řemínku.[^5] Nežli byl hrob zasypán, položila uplakaná Kluchova družka k mrtvému panáka na půl lokte vysokého, kterého kdysi Kluch pracně vyřezal z mamutího klu. Žena nosila tuto loutku jako kouzlo stále ve vaku, nikdy se od ní neodloučila a věřila, že se jí mocí toho kouzla narodí veselý klučina. Teď v pláči kladla loutku do hrobu a loučila se se všemi svými nadějemi.
 
 Ostatní ranění lovci se uzdravili kupodivu brzy. Jejich veliké rány se jim rychle hojily, přestože nebyly dostatečně ošetřeny.
 
@@ -164,4 +164,4 @@ Věstonická tlupa našla nový domov.
 
   
 
-[5](#footnote-35106-5-backlink) Hrob byl nalezen v Brně roku 1891 i se zmíněnými drobnostmi při kopání kanalizace v nynější Francouzské třídě.
+[^5]: Hrob byl nalezen v Brně roku 1891 i se zmíněnými drobnostmi při kopání kanalizace v nynější Francouzské třídě.

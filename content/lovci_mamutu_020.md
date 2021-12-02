@@ -54,7 +54,7 @@ Rozhodli se, že ještě vypátrají, jak nešťastníci zahynuli. Jistě neutek
 
 Sova vedl své druhy smutnou cestou po stopách uprchlíků. Poznali, které stopy znamenají útěk, a našli otisky mohutných tlap lva, který ztracené lovce pronásledoval.
 
-Pojednou se mezi skálami rozsvítilo. Přestaly stromky, přestaly keře sněhem zatížené, přestala skaliska a přestala i země… nesmírná hlubina se rozevírá u jejich nohou. Ohromná propast zeje před nimi, přehluboká, nedohledná.[9](#footnote-35106-9) Naproti se z nitra země zvedají do výše bílé skály – ale to už je druhý svět. Není k němu přístup, leda pro ptáka…
+Pojednou se mezi skálami rozsvítilo. Přestaly stromky, přestaly keře sněhem zatížené, přestala skaliska a přestala i země… nesmírná hlubina se rozevírá u jejich nohou. Ohromná propast zeje před nimi, přehluboká, nedohledná.[^9] Naproti se z nitra země zvedají do výše bílé skály – ale to už je druhý svět. Není k němu přístup, leda pro ptáka…
 
 Ohromeni stojí mladí lovci nad jícnem strašné propasti.
 
@@ -236,4 +236,4 @@ Venku se rozsypala hustá chumelenice.
 
   
 
-[9](#footnote-35106-9-backlink) Světoznámá propast Macocha, hluboká 138 metrů. Hořejší obvod jícnu měří 440 metrů.
+[^9]: Světoznámá propast Macocha, hluboká 138 metrů. Hořejší obvod jícnu měří 440 metrů.

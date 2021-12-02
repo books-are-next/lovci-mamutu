@@ -100,7 +100,7 @@ Už v dávném pravěku byly lovecké tlupy jako smečky divých psů; vrhaly s
 
 Nežli byl nasypán rov, přistoupila k hromadě mrtvých žena s rozbitou krvavou hlavou a sypala na nejhořejší dětskou mrtvolku drobné ozdůbky a hračky. Potom se potácela pryč a klesla na zem.
 
-Ostatní členové tlupy pak přinášeli a přivalovali na hrob vápencové balvany i drobné kamení a také několik velikých mamutích lopatek, takže brzy byli mrtví zakrytí, že je nebylo vidět. Nakonec ještě obházeli hrob hlínou.[10](#footnote-35106-10)
+Ostatní členové tlupy pak přinášeli a přivalovali na hrob vápencové balvany i drobné kamení a také několik velikých mamutích lopatek, takže brzy byli mrtví zakrytí, že je nebylo vidět. Nakonec ještě obházeli hrob hlínou.[^10]
 
 Pod strmou stranou vápencového pahorku, vypínajícího se osaměle nad Bečvou, která tehdy kolem něho tekla, spalo pak dvacet členů lovecké tlupy, chráněno před severními vichřicemi po dvacet či třicet tisíc let…
 
@@ -194,7 +194,7 @@ A takto jako zde přiměl prospěch všude lidi k sdružování. Ve společnos
 
 Na osamělé skále nad údolím Bečvy plane slavný táborový oheň sjednocení dvou loveckých tlup.
 
-Spojená tlupa od té doby vládla v širokém údolí Moravské brány. Ze své skály nad Bečvou[11](#footnote-35106-11) viděli předmostští lovci daleko na všechny strany. Zpozorovali včas nejen každé stádo zvěře, ale i každou blížící se loveckou družinu. Žádná tlupa putující mimo neodvážila se útočit na silný tábor v Předmostí; naopak, ohlašovala se tu přátelsky s dary a s pazourky nebo mušličkami na výměnu.
+Spojená tlupa od té doby vládla v širokém údolí Moravské brány. Ze své skály nad Bečvou[^11] viděli předmostští lovci daleko na všechny strany. Zpozorovali včas nejen každé stádo zvěře, ale i každou blížící se loveckou družinu. Žádná tlupa putující mimo neodvážila se útočit na silný tábor v Předmostí; naopak, ohlašovala se tu přátelsky s dary a s pazourky nebo mušličkami na výměnu.
 
 Mamutík prozíravě zásobil tlupu dostatečným množstvím pa­zourků, jež přinášely tlupy z dalekého severu. Jeho lovci měli nyní výborné zbraně a množství ostrých nástrojů.
 
@@ -260,6 +260,6 @@ Tedy dále za sluncem!
 
   
 
-[10](#footnote-35106-10-backlink) Tento hromadný hrob byl objeven ve světoznámém tábořišti lovců mamutů v Předmostí u Přerova roku 1891.
+[^10]: Tento hromadný hrob byl objeven ve světoznámém tábořišti lovců mamutů v Předmostí u Přerova roku 1891.
 
-[11](#footnote-35106-11-backlink) Je to chlum Hradisko v Předmostí u Přerova. Tehdy tekla Bečva kolem jeho paty.
+[^11]: Je to chlum Hradisko v Předmostí u Přerova. Tehdy tekla Bečva kolem jeho paty.

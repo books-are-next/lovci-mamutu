@@ -14,7 +14,7 @@ Mamutík, Sova, Dráp, Zajíc i jiní lovci se hlásili, že půjdou pro oheň 
 
 Dny ubíhaly a přiblížila se zima. Tlupa již přivykla své jeskyni. Na konec její krápníkové chodby nikdo nedošel. Nejodvážnější lovci oznamovali, že chodba končí nebezpečným srázem do hlubiny. Nelze tam učinit bez světla ani krok. A prý je tam z hloubky slyšet šumot potoka. Podivem kroutili všichni v tlupě hlavou, když o tom slyšeli.
 
-Tlupa se živila v této krajině dosti dobře. Málokdy byli den nebo dva dny o hladu. Zpravidla přinesli lovci vždycky nějakou kořist. Také několik kožešin přibylo k zásobě na zimu. Jen to bylo mrzuté, že se lovcům již nedostávalo pazourku. Nebylo z čeho doplňovat rozbité a ztracené nástroje. Lovci se museli spokojovat obyčejným křemenem a jinými tvrdými a štípatelnými kameny. Avšak co byly platny takové nouzové náhražky, když přece nad pazourek[6](#footnote-35106-6) není!
+Tlupa se živila v této krajině dosti dobře. Málokdy byli den nebo dva dny o hladu. Zpravidla přinesli lovci vždycky nějakou kořist. Také několik kožešin přibylo k zásobě na zimu. Jen to bylo mrzuté, že se lovcům již nedostávalo pazourku. Nebylo z čeho doplňovat rozbité a ztracené nástroje. Lovci se museli spokojovat obyčejným křemenem a jinými tvrdými a štípatelnými kameny. Avšak co byly platny takové nouzové náhražky, když přece nad pazourek[^6] není!
 
 Často vylézali lovci na vysoké vrchy a obhlíželi všecky strany, nespatří-li někde dým nějaké toulavé tlupy, od níž by mohli získat oharek nebo pazourkovou pecku. Avšak nadarmo hleděli do dáli – nikde na širém obzoru se neukázal sloupec sivého dýmu, aniž kde v měkké půdě byly vtlačeny stopy obchodnické tlupy s pazourkem, přicházející někdy z dalekého severu.
 
@@ -90,7 +90,7 @@ Kopčem s Veverčákem odhrábli trochu hlíny okolo vyčnívajícího hrotu a�
 
 „Copak, hoši, zase máte?“ ptal se s úsměvem Houžňák.
 
-Hoši rozevřeli dlaně a před sedícího vůdce vypadl krásný pazourek.[7](#footnote-35106-7)
+Hoši rozevřeli dlaně a před sedícího vůdce vypadl krásný pazourek.[^7]
 
 „Aaaá!“ překvapeně vydechli lovci, obdivujíce se vzácnému nástroji. Jak pěkně pravidelně je vypracován! Jak jemně je všude oklepán a oštípán!
 
@@ -158,7 +158,7 @@ Lovci křičeli jako šílení, výskali, tancovali, až hlavami do stropu tlouk
 
 „Kopčem, sem!“ zavolal Huňáč hocha ke vchodu a položil na zem kousek uschlého mechu.
 
-Kopčem křesal, ale ruce se mu třásly. Huňáč tedy vzal sám do rukou pazourek i ohnivý kámen[8](#footnote-35106-8) a křesal, až jiskry sršely. Za chvíli zakroužil z mechu malinký obláček dýmu a v dešti jisker se zvětšoval.
+Kopčem křesal, ale ruce se mu třásly. Huňáč tedy vzal sám do rukou pazourek i ohnivý kámen[^8] a křesal, až jiskry sršely. Za chvíli zakroužil z mechu malinký obláček dýmu a v dešti jisker se zvětšoval.
 
 Huňáč odložil kameny, sklonil hlavu až k zemi a zlehka dýchl do mechu. Obláček dýmu odvanul. Huňáč foukl ještě a ještě jednou.
 
@@ -206,8 +206,8 @@ Je šťasten.
 
   
 
-[6](#footnote-35106-6-backlink) Pazourek (křesací kámen), odrůda křemene, vyskytuje se v podobě hlíz (pecek, valounů) zarostlých do křídových skal na pobřeží Baltského moře a průlivu La Manche, ojediněle i ve vápencových skálách u Brna (Olomoučany, Rudice). Je obyčejně neprůhledný, někdy průsvitný až průhledný. Jeho úlomky bývají ostré jako sklo. Křesán ocelí nebo železným kyzem dává jiskry, jimiž lze zapálit oheň.
+[^6]: Pazourek (křesací kámen), odrůda křemene, vyskytuje se v podobě hlíz (pecek, valounů) zarostlých do křídových skal na pobřeží Baltského moře a průlivu La Manche, ojediněle i ve vápencových skálách u Brna (Olomoučany, Rudice). Je obyčejně neprůhledný, někdy průsvitný až průhledný. Jeho úlomky bývají ostré jako sklo. Křesán ocelí nebo železným kyzem dává jiskry, jimiž lze zapálit oheň.
 
-[7](#footnote-35106-7-backlink) Mezi archeology zvaný podle tvaru „vavřínový list“.
+[^7]: Mezi archeology zvaný podle tvaru „vavřínový list“.
 
-[8](#footnote-35106-8-backlink) Ohnivý kámen = kyz železný, pyrit. Vyskytuje se hojně zejména v uhelných ložiskách (Kladno aj.) a v žilách rud (Příbram, Kutná Hora, Banská Štiavnica, Jílové). Křesán jiskří.
+[^8]: Ohnivý kámen = kyz železný, pyrit. Vyskytuje se hojně zejména v uhelných ložiskách (Kladno aj.) a v žilách rud (Příbram, Kutná Hora, Banská Štiavnica, Jílové). Křesán jiskří.

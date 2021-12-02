@@ -156,7 +156,7 @@ Vydržely tak zpívat po celou dobu své práce, při níž stále seděly na zk
 
 Kopčem přinesl otci vypálenou a již vychladlou sošku. Povedla se, nebyla popraskaná.
 
-Njan ještě přetřel figurku lojem a troškou jemného popela a zavěsil ji do stanu.[4](#footnote-35106-4) Bude mít nyní ženu stále doma, nikdy nebude sám.
+Njan ještě přetřel figurku lojem a troškou jemného popela a zavěsil ji do stanu.[^4] Bude mít nyní ženu stále doma, nikdy nebude sám.
 
 Kvečeru se lovci vrátili. Kořist byla hubená: dvě lišky, které nikdo nechce jíst, a jelení koloušek.
 
@@ -184,4 +184,4 @@ Tábor usíná.
 
   
 
-[4](#footnote-35106-4-backlink) Tato vzácná figurka byla nalezena roku 1925 a je známa ve světě jako Věstonická venuše.
+[^4]: Tato vzácná figurka byla nalezena roku 1925 a je známa ve světě jako Věstonická venuše.

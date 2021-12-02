@@ -128,7 +128,7 @@ Tu i tam přišli v závěji na pohřbené soby a nestačili je odvážet.
 
 Kdyby se nebyli obávali hyen a vlků, byli by zde raději nechali soby ležet, ale škoda tak veliké kořisti, kdyby ji zvěř měla roznést. Proto Mamutík usiloval, aby co možno všecko dostali domů.
 
-Najednou tam hluboko ve sněhu přišli i na huňatého nosorožce. Měl dosud v krku zabodnutý ulomený oštěp[15](#footnote-35106-15). Z velikého nosorožce odřízli lovci jen některé kusy masa, neboť celé zvíře nemohli dopravit do tábora.
+Najednou tam hluboko ve sněhu přišli i na huňatého nosorožce. Měl dosud v krku zabodnutý ulomený oštěp[^15]. Z velikého nosorožce odřízli lovci jen některé kusy masa, neboť celé zvíře nemohli dopravit do tábora.
 
 Teprve teď je vidět, jak veliké množství zvěře zahubila ona strašná sněhová bouře – naštěstí pro hladovějící tlupu.
 
@@ -138,4 +138,4 @@ Již se dočkají nového jara.
 
   
 
-[15](#footnote-35106-15-backlink) Zde, v nynější cihelně Na Báni, byl roku 1908 při odkopávání žlutky nalezen pazourkový hrot z oštěpu, dosud jediný v Čechách. Je tvaru vavřínového listu. Kromě toho se tu našlo mnoho kostí diluviálních zvířat.
+[^15]: Zde, v nynější cihelně Na Báni, byl roku 1908 při odkopávání žlutky nalezen pazourkový hrot z oštěpu, dosud jediný v Čechách. Je tvaru vavřínového listu. Kromě toho se tu našlo mnoho kostí diluviálních zvířat.

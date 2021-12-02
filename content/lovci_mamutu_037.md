@@ -58,7 +58,7 @@ Churavějící náčelník tlupy, svíraje bolestí ústa, přišoural se k já
 
 Západní obloha je zatažena hnědým mračnem. Za chvíli již větve třeští a stromy se ohýbají. Vichr žene spousty jemného prachu, zdviženého z vyschlých kalovišť po severoněmeckém ledovci i z našich plání, a sype jej jako sníh v nejhustší chumelenici. Podobný je asi samum na Sahaře… Nakonec se spustil strašný liják za rachotu hromů.
 
-Po bouři si lovci vytírají prach z očí a vylézají z úkrytů. Je vidět vysoké závěje žlutého prachu, z něhož nyní déšť činí bláto; jen větru vystavená místa zůstávají holá. Mamut je zasypán, jáma zpola zanesena.[12](#footnote-35106-12)
+Po bouři si lovci vytírají prach z očí a vylézají z úkrytů. Je vidět vysoké závěje žlutého prachu, z něhož nyní déšť činí bláto; jen větru vystavená místa zůstávají holá. Mamut je zasypán, jáma zpola zanesena.[^12]
 
 Lovci sebrali aspoň zachráněné kusy masa a šli do ležení na Bílou skálu chystat večeři.
 
@@ -176,4 +176,4 @@ Tma je v táboře na Bílé skále. Děti se k sobě choulí jako štěňata.
 
   
 
-[12](#footnote-35106-12-backlink) Tam na nejvyšším bodě nynější silnice u Rokosky objevil jsem roku 1906 při kanalizačním průkopu mamutí kostru v jámě čtyři metry hluboké. Část klu a některé kosti jsem zachoval, ostatek kostry leží doposud na tom místě v zemi.
+[^12]: Tam na nejvyšším bodě nynější silnice u Rokosky objevil jsem roku 1906 při kanalizačním průkopu mamutí kostru v jámě čtyři metry hluboké. Část klu a některé kosti jsem zachoval, ostatek kostry leží doposud na tom místě v zemi.

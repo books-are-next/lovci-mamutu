@@ -182,7 +182,7 @@ Kukačka a Vlčice zůstaly na Bílé skále a vyhrabaly v ohništi žhavé u
 
 Na lovišti u jezera hodovalo několik vlků a dvě hyeny. To bylo svědectví, že cizí tlupa, medvědy rozehnaná, již se na toto místo nevrátila. I jeden divoký pes obíhal kolem, ale vlci ho vždy odehnali, kdykoli se chtěl zúčastnit hodů.
 
-Hladoví lovci se vrhli na vlky a hyeny, zahnali je a hned rušili[14](#footnote-35106-14) nahromaděnou zvěř.
+Hladoví lovci se vrhli na vlky a hyeny, zahnali je a hned rušili[^14] nahromaděnou zvěř.
 
 Děvčata přinesla z Bílé skály žhoucí dřevo a rozdělala zde na lovišti veliký a slavný oheň. Rozeběhla se nasbírat dříví; ženy pak dávaly do žhavého popelu celé sobí čtvrti, aby se opekly a poskytly nedočkavcům žádoucí pokrm.
 
@@ -228,4 +228,4 @@ Jak šťastné jsou dny hojnosti!
 
   
 
-[14](#footnote-35106-14-backlink) Rušit – vyvrhovat.
+[^14]: Rušit – vyvrhovat.

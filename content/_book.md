@@ -10,8 +10,9 @@ meta:
   modified: '2021-09-10T10:32:35.507Z'
   languageCode: cs
   subtitle: Román z pravěku
-chapters:
-  - lovci_mamutu_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - lovci_mamutu_002.html
   - lovci_mamutu_005.html
   - lovci_mamutu_006.html
@@ -53,6 +54,7 @@ chapters:
   - lovci_mamutu_042.html
   - lovci_mamutu_043.html
   - lovci_mamutu_044.html
+  - colophon.html
 tocBase:
   - link: lovci_mamutu_005.html
     title: |-
@@ -154,5 +156,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

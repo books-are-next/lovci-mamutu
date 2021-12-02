@@ -12,7 +12,7 @@ Dalejské údolí, ústící u Hlubočep do vltavského údolí, nebylo tehdy j
 
 Na výstupku před jeskyní hoří táborový oheň. Poslové libeňské tlupy zdaleka volají své heslo, aby jim snad někdo z prokopské tlupy unáhleně nevpustil ostrou šipku do boku. Prokopští vyskočili a odpovídali výkřiky, když poznali spřátelené lovce. Pozvali je hned k táborovému ohni, aby usedli na prostřené kožešiny.
 
-Na uvítanou pak přistupovali k příchozím, a přiklonivše se k nim, otírali své nosy o jejich a pak, naplivavše si do dlaní, hladili jimi tváře libeňských poslů. Tím bylo uvítání provedeno, jak kázal lovecký mrav. Libeňští rozestřeli přinesené zboží a prosili o výměnu za pazourky. Náčelník prokopské tlupy po nějakých okolcích přivolil a se dvěma muži se odebral do jeskyně[13](#footnote-35106-13). Byla to nepříliš prostranná chodba ve vápencové skále, ale značně dlouhá. Jeden muž svítil hořící větví.
+Na uvítanou pak přistupovali k příchozím, a přiklonivše se k nim, otírali své nosy o jejich a pak, naplivavše si do dlaní, hladili jimi tváře libeňských poslů. Tím bylo uvítání provedeno, jak kázal lovecký mrav. Libeňští rozestřeli přinesené zboží a prosili o výměnu za pazourky. Náčelník prokopské tlupy po nějakých okolcích přivolil a se dvěma muži se odebral do jeskyně[^13]. Byla to nepříliš prostranná chodba ve vápencové skále, ale značně dlouhá. Jeden muž svítil hořící větví.
 
 Šli tak jeden za druhým asi sto kroků tmavou slují, až se octli u skladiště pazourkových kamenů zdejší tlupy. Každý muž vzal několik valounků a vrátil se nazpět k ohni. Položili před libeňské lovce pazourky na hromádku a usedli. Libeňští lovci sebou ani nepohnuli; hleděli dále do ohně.
 
@@ -54,4 +54,4 @@ Mamutík přemýšlí o skalních medvědech.
 
   
 
-[13](#footnote-35106-13-backlink) Roku 1883 našel ředitel Kořenský v této jeskyni (nyní už zničené) lidské kosti s kostmi sobími. (Nález je v Národním muzeu.)
+[^13]: Roku 1883 našel ředitel Kořenský v této jeskyni (nyní už zničené) lidské kosti s kostmi sobími. (Nález je v Národním muzeu.)
