@@ -46,7 +46,7 @@
         "filename": "lovci_mamutu_002.md",
         "xhtml": "lovci_mamutu_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "inToc": false,
         "title": "",
         "subtitle": "",
@@ -539,7 +539,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Eduard Štorch",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T13:42:48.121Z"
+      "modified": "2020-01-03T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -567,7 +567,7 @@
         "xhtml": "lovci_mamutu_004.xhtml"
       },
       {
-        "titleSuggest": "DÍL PRVNÍ\n    \n    NA BŘEHU DYJE",
+        "titleSuggest": "DÍL PRVNÍ          NA BŘEHU DYJE",
         "subtitleSuggest": "",
         "filename": "lovci_mamutu_005.md",
         "xhtml": "lovci_mamutu_005.xhtml"
@@ -615,7 +615,7 @@
         "xhtml": "lovci_mamutu_012.xhtml"
       },
       {
-        "titleSuggest": "DÍL DRUHÝ\n    \n    V JESKYNI",
+        "titleSuggest": "DÍL DRUHÝ          V JESKYNI",
         "subtitleSuggest": "",
         "filename": "lovci_mamutu_013.md",
         "xhtml": "lovci_mamutu_013.xhtml"
@@ -663,7 +663,7 @@
         "xhtml": "lovci_mamutu_020.xhtml"
       },
       {
-        "titleSuggest": "DÍL TŘETÍ\n    \n    NA KŘIŽOVATCE\n    PRAVĚKÉHO LIDSTVA",
+        "titleSuggest": "DÍL TŘETÍ          NA KŘIŽOVATCE     PRAVĚKÉHO LIDSTVA",
         "subtitleSuggest": "",
         "filename": "lovci_mamutu_021.md",
         "xhtml": "lovci_mamutu_021.xhtml"
@@ -705,7 +705,7 @@
         "xhtml": "lovci_mamutu_027.xhtml"
       },
       {
-        "titleSuggest": "DÍL ČTVRTÝ\n    \n    VE STŘEDNÍCH\n    ČECHÁCH",
+        "titleSuggest": "DÍL ČTVRTÝ          VE STŘEDNÍCH     ČECHÁCH",
         "subtitleSuggest": "",
         "filename": "lovci_mamutu_028.md",
         "xhtml": "lovci_mamutu_028.xhtml"
@@ -747,7 +747,7 @@
         "xhtml": "lovci_mamutu_034.xhtml"
       },
       {
-        "titleSuggest": "DÍL PÁTÝ\n    \n    NA BÍLÉ SKÁLE",
+        "titleSuggest": "DÍL PÁTÝ          NA BÍLÉ SKÁLE",
         "subtitleSuggest": "",
         "filename": "lovci_mamutu_035.md",
         "xhtml": "lovci_mamutu_035.xhtml"
@@ -881,6 +881,6 @@
       "user": "books-are-next",
       "repo": "lovci-mamutu"
     },
-    "generatedAt": 1638452568867
+    "generatedAt": 1652351295730
   }
 }

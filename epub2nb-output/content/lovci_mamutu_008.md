@@ -1,5 +1,6 @@
 ---
 title: Útok zubrů
+contentType: prose
 ---
 
 Z lesíka pod horským pásmem vyšlo několik velikých zvířat. Podle vysoké a mohutné přední části těla bylo i z dálky snadné uhodnout, že to jsou zubři, bizoni.

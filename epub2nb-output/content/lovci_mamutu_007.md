@@ -1,5 +1,6 @@
 ---
 title: Mladí lovci
+contentType: prose
 ---
 
 Slunce stojí nad nejvyšším vrcholem pavlovského horského hřebene a koupá své mírné teplé paprsky v lesklých vodách veliké nížiny.

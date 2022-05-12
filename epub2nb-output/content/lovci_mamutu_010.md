@@ -1,5 +1,6 @@
 ---
 title: Věstonická venuše
+contentType: prose
 ---
 
 Kopčem už zůstal u nového ohniště. Seděl na kameni, přikládal rozlámané větve i nepotřebné rozbité kosti a díval se na sivý dým. Krouživé obláčky proudily vzhůru a mizely ve výši.

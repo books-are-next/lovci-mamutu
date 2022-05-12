@@ -1,5 +1,6 @@
 ---
 title: Návrat
+contentType: prose
 ---
 
 V Houžňákově tlupě je hlad a smutek.

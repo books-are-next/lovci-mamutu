@@ -1,5 +1,6 @@
 ---
 title: Nový oheň
+contentType: prose
 ---
 
 Slunce zašlo. Červánky ozdobují téměř půl oblohy.

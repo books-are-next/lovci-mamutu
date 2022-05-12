@@ -1,5 +1,6 @@
 ---
 title: "V\_zimě"
+contentType: prose
 ---
 
 Po krátké jeseni přišla tuhá zima. Zvěř zalezla do doupat a jen hlad ji pudil na sníh.

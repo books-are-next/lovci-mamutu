@@ -1,5 +1,6 @@
 ---
 title: Na mamuta
+contentType: prose
 ---
 
 Oheň byl udržován po celou noc: nesměl nikdy vyhasnout. Ráno Kukačka vypravovala, co se jí při ohňové stráži v noci přihodilo. Hyena se vplížila do ležení a popadla okousanou nohu mladého tura, před časem uloveného. Zaběhla tuhle do údolí.

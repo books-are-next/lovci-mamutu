@@ -1,5 +1,6 @@
 ---
 title: Lev
+contentType: prose
 ---
 
 Po několik dní zuřila nepohoda. Lovci nemohli vycházet na lov a tlupa hladověla.

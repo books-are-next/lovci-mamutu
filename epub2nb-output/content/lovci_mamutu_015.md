@@ -1,5 +1,6 @@
 ---
 title: Lumíci
+contentType: prose
 ---
 
 Kopčem s Veverčákem nechali malé děti pást se na borůvkách a na malinách a šli prozkoumat okolí nového sídliště.

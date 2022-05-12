@@ -1,5 +1,6 @@
 ---
 title: Útěk
+contentType: prose
 ---
 
 K ránu bylo citelně chladno. Ještě před rozbřeskem přiložil kdosi na ohniště silné klacky.

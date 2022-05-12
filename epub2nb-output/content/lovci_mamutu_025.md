@@ -1,5 +1,6 @@
 ---
 title: Za tlupou
+contentType: prose
 ---
 
 Nohy už Kopčema tuze bolí. Rad by si odpočinul. Ale cítí dobře, že se rozpláče, jestli si sedne.

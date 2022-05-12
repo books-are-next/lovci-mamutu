@@ -1,5 +1,6 @@
 ---
-title: "DÍL DRUHÝ\n    \n    V\_JESKYNI"
+title: "DÍL DRUHÝ          V\_JESKYNI"
+contentType: prose
 ---
 
 

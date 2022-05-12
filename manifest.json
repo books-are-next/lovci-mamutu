@@ -1,22 +1,68 @@
 {
-  "author": "Eduard Štorch",
-  "edition": "beletrie",
-  "identifier": "storch-lovci-mamutu-b86cf86",
-  "languagecode": "cs",
-  "modified": "2021-09-10T10:32:35.507Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
-  "subtitle": "Román z pravěku",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Lovci mamutů",
-  "revision": "b86cf86",
+  "subtitle": "Román z pravěku",
+  "author": "Eduard Štorch",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "storch-lovci-mamutu-2d17437",
+  "revision": "2d17437",
+  "readingOrder": [
+    "promo.html",
+    "lovci_mamutu_005.html",
+    "lovci_mamutu_006.html",
+    "lovci_mamutu_007.html",
+    "lovci_mamutu_008.html",
+    "lovci_mamutu_009.html",
+    "lovci_mamutu_010.html",
+    "lovci_mamutu_011.html",
+    "lovci_mamutu_012.html",
+    "lovci_mamutu_013.html",
+    "lovci_mamutu_014.html",
+    "lovci_mamutu_015.html",
+    "lovci_mamutu_016.html",
+    "lovci_mamutu_017.html",
+    "lovci_mamutu_018.html",
+    "lovci_mamutu_019.html",
+    "lovci_mamutu_020.html",
+    "lovci_mamutu_021.html",
+    "lovci_mamutu_022.html",
+    "lovci_mamutu_023.html",
+    "lovci_mamutu_024.html",
+    "lovci_mamutu_025.html",
+    "lovci_mamutu_026.html",
+    "lovci_mamutu_027.html",
+    "lovci_mamutu_028.html",
+    "lovci_mamutu_029.html",
+    "lovci_mamutu_030.html",
+    "lovci_mamutu_031.html",
+    "lovci_mamutu_032.html",
+    "lovci_mamutu_033.html",
+    "lovci_mamutu_034.html",
+    "lovci_mamutu_035.html",
+    "lovci_mamutu_036.html",
+    "lovci_mamutu_037.html",
+    "lovci_mamutu_038.html",
+    "lovci_mamutu_039.html",
+    "lovci_mamutu_040.html",
+    "lovci_mamutu_041.html",
+    "lovci_mamutu_042.html",
+    "lovci_mamutu_043.html",
+    "lovci_mamutu_044.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 13:43:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638452625388
+    "date": "Thu May 12 2022 10:35:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351754062
   },
   "documents": [
     {
-      "title": "Lovci mamutů",
-      "file": "lovci_mamutu_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,38 +70,30 @@
       "order": 0,
       "prev": null,
       "next": "lovci_mamutu_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "DÍL PRVNÍ\n    \n    NA BŘEHU DYJE • Lovci mamutů",
+      "title": "DÍL PRVNÍ          NA BŘEHU DYJE",
       "file": "lovci_mamutu_005.html",
       "words": 5,
-      "chars": 22,
-      "ideas": 2,
+      "chars": 32,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "lovci_mamutu_002.html",
+      "prev": "promo.html",
       "next": "lovci_mamutu_006.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "DÍL PRVNÍ\nNA BŘEHU DYJE",
+          "name": "DÍL PRVNÍ          NA BŘEHU DYJE",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Morava je krásná země • Lovci mamutů",
+      "title": "Morava je krásná země",
       "file": "lovci_mamutu_006.html",
       "words": 177,
       "chars": 1132,
@@ -75,7 +113,7 @@
       ]
     },
     {
-      "title": "Mladí lovci • Lovci mamutů",
+      "title": "Mladí lovci",
       "file": "lovci_mamutu_007.html",
       "words": 1598,
       "chars": 9498,
@@ -95,7 +133,7 @@
       ]
     },
     {
-      "title": "Útok zubrů • Lovci mamutů",
+      "title": "Útok zubrů",
       "file": "lovci_mamutu_008.html",
       "words": 2563,
       "chars": 15015,
@@ -115,7 +153,7 @@
       ]
     },
     {
-      "title": "V táboře lovecké tlupy • Lovci mamutů",
+      "title": "V táboře lovecké tlupy",
       "file": "lovci_mamutu_009.html",
       "words": 2160,
       "chars": 12742,
@@ -135,7 +173,7 @@
       ]
     },
     {
-      "title": "Věstonická venuše • Lovci mamutů",
+      "title": "Věstonická venuše",
       "file": "lovci_mamutu_010.html",
       "words": 2296,
       "chars": 13507,
@@ -155,7 +193,7 @@
       ]
     },
     {
-      "title": "Mamuti • Lovci mamutů",
+      "title": "Mamuti",
       "file": "lovci_mamutu_011.html",
       "words": 1808,
       "chars": 10675,
@@ -175,7 +213,7 @@
       ]
     },
     {
-      "title": "Ztracená kořist • Lovci mamutů",
+      "title": "Ztracená kořist",
       "file": "lovci_mamutu_012.html",
       "words": 2482,
       "chars": 15059,
@@ -195,11 +233,11 @@
       ]
     },
     {
-      "title": "DÍL DRUHÝ\n    \n    V JESKYNI • Lovci mamutů",
+      "title": "DÍL DRUHÝ          V JESKYNI",
       "file": "lovci_mamutu_013.html",
       "words": 4,
-      "chars": 18,
-      "ideas": 2,
+      "chars": 28,
+      "ideas": 1,
       "role": "chapter",
       "order": 9,
       "prev": "lovci_mamutu_012.html",
@@ -208,14 +246,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DÍL DRUHÝ\nV JESKYNI",
+          "name": "DÍL DRUHÝ          V JESKYNI",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Do nových lovišť • Lovci mamutů",
+      "title": "Do nových lovišť",
       "file": "lovci_mamutu_014.html",
       "words": 3060,
       "chars": 18536,
@@ -235,7 +273,7 @@
       ]
     },
     {
-      "title": "Lumíci • Lovci mamutů",
+      "title": "Lumíci",
       "file": "lovci_mamutu_015.html",
       "words": 1982,
       "chars": 11569,
@@ -255,7 +293,7 @@
       ]
     },
     {
-      "title": "Boj s medvědem • Lovci mamutů",
+      "title": "Boj s medvědem",
       "file": "lovci_mamutu_016.html",
       "words": 1847,
       "chars": 11112,
@@ -275,7 +313,7 @@
       ]
     },
     {
-      "title": "Ohnivý kámen • Lovci mamutů",
+      "title": "Ohnivý kámen",
       "file": "lovci_mamutu_017.html",
       "words": 2583,
       "chars": 15573,
@@ -295,7 +333,7 @@
       ]
     },
     {
-      "title": "V zimě • Lovci mamutů",
+      "title": "V zimě",
       "file": "lovci_mamutu_018.html",
       "words": 2266,
       "chars": 13295,
@@ -315,7 +353,7 @@
       ]
     },
     {
-      "title": "Lev • Lovci mamutů",
+      "title": "Lev",
       "file": "lovci_mamutu_019.html",
       "words": 1529,
       "chars": 8906,
@@ -335,7 +373,7 @@
       ]
     },
     {
-      "title": "V jícnu Macochy • Lovci mamutů",
+      "title": "V jícnu Macochy",
       "file": "lovci_mamutu_020.html",
       "words": 2500,
       "chars": 14605,
@@ -355,11 +393,11 @@
       ]
     },
     {
-      "title": "DÍL TŘETÍ\n    \n    NA KŘIŽOVATCE\n    PRAVĚKÉHO LIDSTVA • Lovci mamutů",
+      "title": "DÍL TŘETÍ          NA KŘIŽOVATCE     PRAVĚKÉHO LIDSTVA",
       "file": "lovci_mamutu_021.html",
       "words": 6,
-      "chars": 39,
-      "ideas": 3,
+      "chars": 54,
+      "ideas": 1,
       "role": "chapter",
       "order": 17,
       "prev": "lovci_mamutu_020.html",
@@ -368,14 +406,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DÍL TŘETÍ\nNA KŘIŽOVATCE\nPRAVĚKÉHO LIDSTVA",
+          "name": "DÍL TŘETÍ          NA KŘIŽOVATCE     PRAVĚKÉHO LIDSTVA",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Před Moravskou bránou • Lovci mamutů",
+      "title": "Před Moravskou bránou",
       "file": "lovci_mamutu_022.html",
       "words": 2309,
       "chars": 14157,
@@ -395,7 +433,7 @@
       ]
     },
     {
-      "title": "V zajetí • Lovci mamutů",
+      "title": "V zajetí",
       "file": "lovci_mamutu_023.html",
       "words": 880,
       "chars": 5091,
@@ -415,7 +453,7 @@
       ]
     },
     {
-      "title": "Útěk • Lovci mamutů",
+      "title": "Útěk",
       "file": "lovci_mamutu_024.html",
       "words": 1858,
       "chars": 10929,
@@ -435,7 +473,7 @@
       ]
     },
     {
-      "title": "Za tlupou • Lovci mamutů",
+      "title": "Za tlupou",
       "file": "lovci_mamutu_025.html",
       "words": 1325,
       "chars": 7472,
@@ -455,7 +493,7 @@
       ]
     },
     {
-      "title": "Návrat • Lovci mamutů",
+      "title": "Návrat",
       "file": "lovci_mamutu_026.html",
       "words": 681,
       "chars": 3928,
@@ -475,7 +513,7 @@
       ]
     },
     {
-      "title": "Velký boj • Lovci mamutů",
+      "title": "Velký boj",
       "file": "lovci_mamutu_027.html",
       "words": 3354,
       "chars": 20502,
@@ -495,11 +533,11 @@
       ]
     },
     {
-      "title": "DÍL ČTVRTÝ\n    \n    VE STŘEDNÍCH\n    ČECHÁCH • Lovci mamutů",
+      "title": "DÍL ČTVRTÝ          VE STŘEDNÍCH     ČECHÁCH",
       "file": "lovci_mamutu_028.html",
       "words": 5,
-      "chars": 29,
-      "ideas": 3,
+      "chars": 44,
+      "ideas": 1,
       "role": "chapter",
       "order": 24,
       "prev": "lovci_mamutu_027.html",
@@ -508,14 +546,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DÍL ČTVRTÝ\nVE STŘEDNÍCH\nČECHÁCH",
+          "name": "DÍL ČTVRTÝ          VE STŘEDNÍCH     ČECHÁCH",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Uloupená dívka • Lovci mamutů",
+      "title": "Uloupená dívka",
       "file": "lovci_mamutu_029.html",
       "words": 1559,
       "chars": 9237,
@@ -535,7 +573,7 @@
       ]
     },
     {
-      "title": "Na Zlatém potoce • Lovci mamutů",
+      "title": "Na Zlatém potoce",
       "file": "lovci_mamutu_030.html",
       "words": 1500,
       "chars": 8767,
@@ -555,7 +593,7 @@
       ]
     },
     {
-      "title": "Vyhaslé ohniště • Lovci mamutů",
+      "title": "Vyhaslé ohniště",
       "file": "lovci_mamutu_031.html",
       "words": 1528,
       "chars": 9225,
@@ -575,7 +613,7 @@
       ]
     },
     {
-      "title": "Na výpravě • Lovci mamutů",
+      "title": "Na výpravě",
       "file": "lovci_mamutu_032.html",
       "words": 3101,
       "chars": 18781,
@@ -595,7 +633,7 @@
       ]
     },
     {
-      "title": "Statečný jinoch • Lovci mamutů",
+      "title": "Statečný jinoch",
       "file": "lovci_mamutu_033.html",
       "words": 1612,
       "chars": 9647,
@@ -615,7 +653,7 @@
       ]
     },
     {
-      "title": "Nový oheň • Lovci mamutů",
+      "title": "Nový oheň",
       "file": "lovci_mamutu_034.html",
       "words": 2348,
       "chars": 13982,
@@ -635,11 +673,11 @@
       ]
     },
     {
-      "title": "DÍL PÁTÝ\n    \n    NA BÍLÉ SKÁLE • Lovci mamutů",
+      "title": "DÍL PÁTÝ          NA BÍLÉ SKÁLE",
       "file": "lovci_mamutu_035.html",
       "words": 5,
-      "chars": 21,
-      "ideas": 2,
+      "chars": 31,
+      "ideas": 1,
       "role": "chapter",
       "order": 31,
       "prev": "lovci_mamutu_034.html",
@@ -648,14 +686,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DÍL PÁTÝ\nNA BÍLÉ SKÁLE",
+          "name": "DÍL PÁTÝ          NA BÍLÉ SKÁLE",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Hoch a mamut • Lovci mamutů",
+      "title": "Hoch a mamut",
       "file": "lovci_mamutu_036.html",
       "words": 1837,
       "chars": 11007,
@@ -675,7 +713,7 @@
       ]
     },
     {
-      "title": "Na mamuta • Lovci mamutů",
+      "title": "Na mamuta",
       "file": "lovci_mamutu_037.html",
       "words": 2068,
       "chars": 12413,
@@ -695,7 +733,7 @@
       ]
     },
     {
-      "title": "Za ohněm • Lovci mamutů",
+      "title": "Za ohněm",
       "file": "lovci_mamutu_038.html",
       "words": 1772,
       "chars": 10679,
@@ -715,7 +753,7 @@
       ]
     },
     {
-      "title": "Divocí koně • Lovci mamutů",
+      "title": "Divocí koně",
       "file": "lovci_mamutu_039.html",
       "words": 1159,
       "chars": 6915,
@@ -735,7 +773,7 @@
       ]
     },
     {
-      "title": "Výměnný obchod • Lovci mamutů",
+      "title": "Výměnný obchod",
       "file": "lovci_mamutu_040.html",
       "words": 968,
       "chars": 5936,
@@ -755,7 +793,7 @@
       ]
     },
     {
-      "title": "Vyzvědači • Lovci mamutů",
+      "title": "Vyzvědači",
       "file": "lovci_mamutu_041.html",
       "words": 2465,
       "chars": 14781,
@@ -775,7 +813,7 @@
       ]
     },
     {
-      "title": "Cizí lovci • Lovci mamutů",
+      "title": "Cizí lovci",
       "file": "lovci_mamutu_042.html",
       "words": 2305,
       "chars": 13872,
@@ -795,7 +833,7 @@
       ]
     },
     {
-      "title": "Hlad • Lovci mamutů",
+      "title": "Hlad",
       "file": "lovci_mamutu_043.html",
       "words": 1575,
       "chars": 9242,
@@ -815,7 +853,7 @@
       ]
     },
     {
-      "title": "Vynález ohně • Lovci mamutů",
+      "title": "Vynález ohně",
       "file": "lovci_mamutu_044.html",
       "words": 978,
       "chars": 5867,
@@ -835,11 +873,11 @@
       ]
     },
     {
-      "title": "Tiráž • Lovci mamutů",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 145,
-      "chars": 952,
-      "ideas": 23,
+      "words": 124,
+      "chars": 804,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "lovci_mamutu_044.html",
@@ -857,14 +895,14 @@
   ],
   "totals": {
     "all": {
-      "words": 66209,
-      "chars": 394771,
-      "ideas": 2694
+      "words": 66188,
+      "chars": 394683,
+      "ideas": 2681
     },
     "chapters": {
       "words": 66058,
-      "chars": 393783,
-      "ideas": 2667
+      "chars": 393843,
+      "ideas": 2660
     }
   }
 }

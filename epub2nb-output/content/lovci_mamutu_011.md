@@ -1,5 +1,6 @@
 ---
 title: Mamuti
+contentType: prose
 ---
 
 Do rána se neztratilo v táboře nic. Hlídači byli ostražití.

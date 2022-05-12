@@ -1,5 +1,6 @@
 ---
 title: Ohnivý kámen
+contentType: prose
 ---
 
 Ranění lovci se vystonali kupodivu dost brzy. I těžké rány se jim rychle hojily a jen veliké jizvy po nich zůstaly. I Huňáč se konečně uzdravil. Naštěstí neměl oči poškozené; z toho se radoval nejvíce. Nic nedbal, že se mu ošklivě rozrytá tvář teď ustavičně šklebí.

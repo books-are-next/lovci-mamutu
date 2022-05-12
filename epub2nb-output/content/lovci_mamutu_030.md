@@ -1,5 +1,6 @@
 ---
 title: Na Zlatém potoce
+contentType: prose
 ---
 
 Děti se bavily zajímavou hrou u potůčku. Stavěly hráz z kamení a dělaly si rybníčky z nadržené vody. Pokoušely se také chytit malé rybičky. Umazaný Cebík se přitom převalil do rybníčku a teď brečí a prská vodu.

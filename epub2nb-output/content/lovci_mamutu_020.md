@@ -1,5 +1,6 @@
 ---
 title: "V\_jícnu Macochy"
+contentType: prose
 ---
 
 Lovci dlouho besedovali a dlouho jedli. Pečené sobí maso vonělo z jeskyně tak, že lišky a vlci pobíhali do rána okolo.

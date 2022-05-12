@@ -1,5 +1,6 @@
 ---
 title: Morava je krásná země
+contentType: prose
 ---
 
 _A miluje slunce. Všecka se k němu nachyluje. Nejvyšší hory má na severu, největší nížinu na jihu. Uprostřed se zvedá divuplný kras; v něm duní krápníkové jeskyně a zejí hluboké propasti._

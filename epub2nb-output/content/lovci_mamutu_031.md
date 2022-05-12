@@ -1,5 +1,6 @@
 ---
 title: Vyhaslé ohniště
+contentType: prose
 ---
 
 V táboře se dělili o pečeni. Hlučný křik se rozléhal až k lesu.
