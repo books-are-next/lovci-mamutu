@@ -1,5 +1,6 @@
 ---
 title: Výměnný obchod
+contentType: prose
 ---
 
 Hned druhého dne se náčelník ustanovil na tom, že tlupě je nutně potřebí obnovit zásobu pazourkového kamene. Masa mají nyní hojnost, připraví si tedy i zbraně a nástroje, nežli přijde krutá zima.

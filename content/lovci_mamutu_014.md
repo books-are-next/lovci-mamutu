@@ -1,5 +1,6 @@
 ---
 title: Do nových lovišť
+contentType: prose
 ---
 
 Nepřátelská skupina dorazila druhého dne až skoro k ústí nynější Česavy do Svratky. Lovci vystoupili na kopec, kterým končí táhlý hřeben vroubící levý břeh Svratky. Z vrchu se rozhlíželi po rozsáhlé svratecké rovině, jež se tu kopcem dělí na dvě části.

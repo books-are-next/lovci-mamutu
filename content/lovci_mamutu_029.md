@@ -1,5 +1,6 @@
 ---
 title: Uloupená dívka
+contentType: prose
 ---
 
 Lovec Huňáč je nejlepším stopařem v tlupě. Už třetí den pronásleduje houfek sobů, kteří postupují z polabských bažin na letní pastvu do vyšších poloh jihočeských.

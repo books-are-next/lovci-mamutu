@@ -1,5 +1,6 @@
 ---
 title: "Hoch a\_mamut"
+contentType: prose
 ---
 
 Hubený chlapec, do temna opálený, s velikou rozkoší olizoval konec větve, kterou držel v ruce. Před chvílí vyhrábl se svým druhem ze skalní skuliny medovou plástev lesních včel. Oba odběhli se sladkou kořistí dosti daleko, ale několik včel přece za nimi přiletělo. Hoch se ohnal dřevem a běží dále. Ohlíží se. Kam se poděl jeho věrný druh Veverčák? Kam jen utekl?

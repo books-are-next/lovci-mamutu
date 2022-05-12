@@ -1,5 +1,6 @@
 ---
 title: Za ohněm
+contentType: prose
 ---
 
 V podvečer dojeli plavci k podbabskému břehu. Kocábku zatáhli do rákosí a stezkou, kterou k vodě vyšlapala zvěř, stoupali na břeh. Po několika krocích Mamutík vyrazil ze sebe hvizd a již oba leží ukryti pod keřem. Na břehu stojí mohutný zubr s mládětem. Přední nohy zaryty do země, hlavu k zemi přikloněnou, ohon natažený – tak tu čeká, připraven rozsápat celý svět. Mládě úzkostlivě bečí.

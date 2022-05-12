@@ -1,5 +1,6 @@
 ---
 title: Divocí koně
+contentType: prose
 ---
 
 Dvě ženy zůstaly s chorým vůdcem u malých dětí a robí z vhodných kostí hroty na oštěpy, kopí, harpuny; šídla, šipky a jehly dělají ze sobí lopatky.

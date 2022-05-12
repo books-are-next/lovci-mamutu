@@ -1,5 +1,6 @@
 ---
 title: Velký boj
+contentType: prose
 ---
 
 Slavné dny bohatých hodů se schýlily ke konci. Hubení lovci nebyli teď k poznání, jak se spravili. Dokonce je jim i břicha již znát. Ale to nic není proti ženám, jak ty ztloustly! Tváře se jim blyští, při chůzi se jen kolébají a nejmenší běh jim působí obtíže. Dlouho po něm funí a těžce oddychují. Děti jsou jako cvalíci. Maso už ani nechtějí a žvýkají jako po­choutku všelijaké nakyslé a hořké listí, šťovík, šťavel a opečená pláňata.

@@ -1,5 +1,6 @@
 ---
 title: "Boj s\_medvědem"
+contentType: prose
 ---
 
 Na skalním výstupku před jeskyní sedí Rváč. Dívá se do údolí osvětleného měsícem a hlídá. Očekává vlky. Ale vlci se zatím drží pořád ještě v dálce. Nablízku se nic nehýbá, nic není slyšet. Jen sova někdy zahouká.

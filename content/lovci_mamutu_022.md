@@ -1,5 +1,6 @@
 ---
 title: Před Moravskou bránou
+contentType: prose
 ---
 
 Tlupa přečkala v jeskyni dlouhou zimu. Zkusila mnoho hladu. Lovci se někdy po několik dnů vraceli s prázdnýma rukama a děti často žvýkaly staré kožešiny, aby oklamaly žaludek. I zlé vyrážky a vředy z oznobenin trápily tlupu. Nejhorší to bylo koncem zimy.

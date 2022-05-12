@@ -1,5 +1,6 @@
 ---
 title: Statečný jinoch
+contentType: prose
 ---
 
 V Mamutíkově tlupě bylo smutno.

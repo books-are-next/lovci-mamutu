@@ -1,5 +1,6 @@
 ---
 title: Cizí lovci
+contentType: prose
 ---
 
 Zatím v ležení na Bílé skále očekávali návrat vyzvědačů. Pohlíželi přes pražské jezero k vysokému Petřínu a k Bílé hoře, objeví-li se snad nějaké znamení v dálce.

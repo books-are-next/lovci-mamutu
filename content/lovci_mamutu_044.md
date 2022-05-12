@@ -1,5 +1,6 @@
 ---
 title: Vynález ohně
+contentType: prose
 ---
 
 Hody trvaly až do konce zimy. Zmrzlé maso se nekazilo; zdálo se, že ho ani neubývá. Jen proti lstivým rosomákům bylo těžké je ubránit. Ti se dostali všude, ať lovci skryli maso do jam, ať je pověsili na stromy, ať je zarovnali mezi balvany. A takový rosomák, když se dostal na maso, pohltil neuvěřitelné spousty. Mamutík tedy přikázal hlídat zásoby ve dne v noci.

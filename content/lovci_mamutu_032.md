@@ -1,5 +1,6 @@
 ---
 title: Na výpravě
+contentType: prose
 ---
 
 Huňáč se Zajícem šli potichu lesem. Každý měl kus masa navlečený na řemeni a přivázaný k pasu. Občas se do masa zakousli, pazourkovým nožíkem kousek odřízli a pak ho dlouho žvýkali. Měsíc dosti osvětloval krajinu i řidší porost v lese.

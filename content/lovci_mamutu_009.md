@@ -1,5 +1,6 @@
 ---
 title: "V\_táboře lovecké tlupy"
+contentType: prose
 ---
 
 Dva dny hodovala tlupa na břehu Dyje. Potom se přestěhovala se zásobou masa a s kůžemi do svého ležení.

@@ -1,5 +1,6 @@
 ---
 title: Hlad
+contentType: prose
 ---
 
 Lovecká tlupa přečkala na Bílé skále i zimu. Pokusila se sice vyhledat si nové loviště při ústí Vltavy a Labe, byla však zle zahnána zpět silnou tlupou polabskou. Lovci z tábořiště na Jenerálce odtáhli do neznámé končiny. Obyvatelé prokopské jeskyně tam sice ještě pobývali, ale nuzně živořili. Jejich tlupa se rozpadla v rozbrojích o ženy a bídně se potulovala po jeskyních u Radotína a dále po levém břehu Mže.

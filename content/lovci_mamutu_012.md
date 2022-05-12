@@ -1,5 +1,6 @@
 ---
 title: Ztracená kořist
+contentType: prose
 ---
 
 Ještě chvíli – a velký zápas začne.

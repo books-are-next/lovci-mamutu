@@ -1,5 +1,6 @@
 ---
 title: "V\_zajetí"
+contentType: prose
 ---
 
 Plochá, mírně zvlněná planina se táhne do velké dálky. Je porostlá trávou a mechem, tu a onde i křovinami vrbovými, olšovými a březovými. Místy bujejí nedohledné palouky jahodové, vřesové a brusinkové.

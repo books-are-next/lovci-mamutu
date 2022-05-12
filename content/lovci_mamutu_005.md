@@ -1,8 +1,6 @@
 ---
-title: |-
-  DÍL PRVNÍ
-      
-      NA BŘEHU DYJE
+title: DÍL PRVNÍ          NA BŘEHU DYJE
+contentType: prose
 ---
 
 

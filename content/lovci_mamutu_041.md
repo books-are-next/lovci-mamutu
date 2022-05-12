@@ -1,5 +1,6 @@
 ---
 title: Vyzvědači
+contentType: prose
 ---
 
 Nejbližší dny po zdařilém lovu divokých koní uplynuly vesele a v blahobytu. Kolem ohniště se válelo již množství okousaných a rozbitých koňských kostí. Lovci si nepřáli jiného, než aby tento přebytek masa trval neustále. Ráno, když se probudili, připravili si jídlo, a když se najedli, zase spali a tak činili pořád, až zásoby čerstvého masa konečně spotřebovali. Sušeného i uzeného masa bylo ještě dostatek.

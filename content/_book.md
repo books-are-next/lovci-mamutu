@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Lovci mamutů
@@ -13,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - lovci_mamutu_002.html
+  - promo.html
   - lovci_mamutu_005.html
   - lovci_mamutu_006.html
   - lovci_mamutu_007.html
