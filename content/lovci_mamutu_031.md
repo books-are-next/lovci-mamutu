@@ -3,6 +3,8 @@ title: Vyhaslé ohniště
 contentType: prose
 ---
 
+<section>
+
 V táboře se dělili o pečeni. Hlučný křik se rozléhal až k lesu.
 
 Hlídající Onaš pohlédl po chvíli k zajatci. Ale co to? Šálí ho zrak…? Vyskočil s vytřeštěnýma očima a několika skoky byl na místě, kde ležel prve zajatý Had. Ale už tu neleží…
@@ -174,3 +176,5 @@ Za chvíli spánek zavíral oči unaveným lovcům. I nešťastný Veverčák z
 Jakési svítivé body se přibližovaly od lesa.
 
 To se vracejí vlci, aby v opuštěném tábořišti slídili po zbytcích kořisti.
+
+</section>

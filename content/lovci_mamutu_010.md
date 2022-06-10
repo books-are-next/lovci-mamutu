@@ -3,6 +3,8 @@ title: Věstonická venuše
 contentType: prose
 ---
 
+<section>
+
 Kopčem už zůstal u nového ohniště. Seděl na kameni, přikládal rozlámané větve i nepotřebné rozbité kosti a díval se na sivý dým. Krouživé obláčky proudily vzhůru a mizely ve výši.
 
 Vydržel tak u ohně celý den a všichni v tlupě vědí, že Kopčem je teď strážcem ohně, třeba o tom nebylo v poradě jednáno. Pomáhá mu Ognoš, chlapec asi o rok mladší. Ženy nanosily zásobu nového dříví a Kopčem se může klidně dívat do ohně, zahloubán v myšlenky.
@@ -137,21 +139,29 @@ Učinil tak hned a pak si sedl za stanem na drn a jal se ostrým pazourkem vyr
 
 Kde pracují ženy, tam je vždycky zpěv. I teď si ženy zpívají:
 
-  
+</section>
+
+<section>
 
 „Hanga – a – há –  
 ja – ha – á!“
 
-  
+</section>
+
+<section>
 
 Na tuto píseň žen odpovídají pomáhající jim dívky stejně jednotvárně vyšším hlasem:
 
-  
+</section>
+
+<section>
 
 „Aiaa – aiaa,  
 oiaa – oiaa!“
 
-  
+</section>
+
+<section>
 
 Vydržely tak zpívat po celou dobu své práce, při níž stále seděly na zkřížených nohou.
 
@@ -183,6 +193,10 @@ Kopčem s nerozlučným Veverčákem si přitáhli kožešiny a strojili si l�
 
 Tábor usíná.
 
-  
+</section>
+
+<section>
 
 [^4]: Tato vzácná figurka byla nalezena roku 1925 a je známa ve světě jako Věstonická venuše.
+
+</section>

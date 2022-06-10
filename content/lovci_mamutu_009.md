@@ -3,6 +3,8 @@ title: "V\_táboře lovecké tlupy"
 contentType: prose
 ---
 
+<section>
+
 Dva dny hodovala tlupa na břehu Dyje. Potom se přestěhovala se zásobou masa a s kůžemi do svého ležení.
 
 Telátko skončilo špatně. Chtěli si je přivést do tábora a nechat je na pozdější dny. Ale bylo špatně uvázáno a v noci je vlci splašili. Utrhlo se, zaběhlo daleko a vlci je roztrhali. Naštěstí měla tlupa nadbytek masa, proto se o ztrátě telátka ani mnoho nemluvilo. Jindy by hlídači byli citelně potrestáni, že nedbali své povinnosti a nedávali lépe pozor.
@@ -91,7 +93,9 @@ Kopčem se rychle brodil k otci a házel mu záchranné větve. Njanovi se sku
 
 Njan si několikrát oddychl a naložil si nebohou ženu na záda.
 
-  
+</section>
+
+<section>
 
 Mamutík hrdě pohlíží na své stavební dílo. Ve studánce je zase čistá voda. Lovci jeden po druhém přiklekávají a schýleni lokají z osvěžujícího pramene. Všichni teď Mamutíka pochvalují za dobrý nápad.
 
@@ -125,10 +129,14 @@ Njan pokynul, že je rov už dost veliký. Všichni se kolem hrobu sesedli a za
 
 Zdáli zaznívá vytí vlků a hyen. Za Pavlovskými vrchy vystupuje černý mrak a od řeky profukuje chladný větřík.
 
-  
+</section>
+
+<section>
 
 [^1]: Kameny obložená studánka byla objevena v táboře věstonické tlupy ro­ku 1937 v hloubce pěti metrů pod nynějším povrchem.
 
 [^2]: Zvířecí figurky z pálené hlíny byly nalezeny při výkopech roku 1924–1925 a roku 1934–1935.
 
 [^3]: Tento památný hrob byl objeven 4. listopadu roku 1927.
+
+</section>

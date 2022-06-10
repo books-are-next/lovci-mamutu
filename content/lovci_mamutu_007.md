@@ -3,6 +3,8 @@ title: Mladí lovci
 contentType: prose
 ---
 
+<section>
+
 Slunce stojí nad nejvyšším vrcholem pavlovského horského hřebene a koupá své mírné teplé paprsky v lesklých vodách veliké nížiny.
 
 Těžko říci, kudy se vine říční proud Dyje. Třikrát mohutnější než nyní točí se řeka klikatě krajinou, rozbíhá se v ramena, spojuje se s jezírky a tůněmi a vybíhá zarostlými močály, takže mnohde v bujném zelenavém porostu není znát, kde je voda a kde je suchá země.
@@ -86,3 +88,5 @@ Veverčák chňapl rukou a chytil velikou luční kobylku. Hbitě odtrhl nohy a
 Tam se něco děje.
 
 Oba hoši stojí nepohnutě s otevřenými ústy.
+
+</section>

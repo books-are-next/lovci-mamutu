@@ -3,6 +3,8 @@ title: Za ohněm
 contentType: prose
 ---
 
+<section>
+
 V podvečer dojeli plavci k podbabskému břehu. Kocábku zatáhli do rákosí a stezkou, kterou k vodě vyšlapala zvěř, stoupali na břeh. Po několika krocích Mamutík vyrazil ze sebe hvizd a již oba leží ukryti pod keřem. Na břehu stojí mohutný zubr s mládětem. Přední nohy zaryty do země, hlavu k zemi přikloněnou, ohon natažený – tak tu čeká, připraven rozsápat celý svět. Mládě úzkostlivě bečí.
 
 Uplynulo několik okamžiků strnulého ticha.
@@ -131,7 +133,9 @@ A lovci se přidávají: „Chceme slyšet Kopčema!“
 
 Houžňák přistrčil Kopčema blíž k jasnému ohni. A hoch vypráví a rukama ustavičně rozkládá. Tlupa napjatě poslouchá noční příběh.
 
-  
+</section>
+
+<section>
 
 Obloha na východě bledne. Nedaleko už zapípal ptáček.
 
@@ -146,3 +150,5 @@ Nadzvedne těžký vyvrácený kmen a podepře jej kusem dřeva tak, aby již m
 On vždycky ví, kde třeba políčit na vlky, medvědy, hyeny, nosorožce, on vyslídí i mamutí stezku k jezeru, na níž se včera skutečně lov podařil. Nechodí jinak než s pořádným kyjem, který má na konci suk, aby mu dodával pádnosti.
 
 Náčelník sám vyniká nad všechny dovedností, jakou umí z pa­zourkového valounku odštěpovat ostrohranné nožíky a přitloukat sekyry z pazourku, rohovce, křemene nebo jiného vhodného kamene. Hotovou palici nasadí na dřevěné, třeba naštípnuté topůrko, jež pak pevně obváže a stáhne. Také jenom on vybere nejlepší větev na lučiště; je pružná a neláme se.
+
+</section>

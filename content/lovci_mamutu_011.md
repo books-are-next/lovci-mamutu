@@ -3,6 +3,8 @@ title: Mamuti
 contentType: prose
 ---
 
+<section>
+
 Do rána se neztratilo v táboře nic. Hlídači byli ostražití.
 
 Nicméně škodolibý Nohahnát přece na něco přišel. Prosmejčil celé ležení a pak u ohniště vykřikoval:
@@ -138,3 +140,5 @@ První mamuti už jsou tu.
 Veliký mamut prošlapává cestu mlázím. Kývaje chobotem ze strany na stranu, ulamuje v chůzi ratolesti a strká si je do huby. Mává velikýma ušima a zahání tak obtížné komáry. Za ním ostatní mamuti rozšířili uličku a ušlapali ji tak, že je z ní široká cesta. Jeden mamut se podrbal o strom, a ten se zlomil jako stéblo. Mamutí mládě utrhlo z poraženého stromu chobotem celý vršek; táhne jej po zemi a hraje si s ním.
 
 Mamuti jdou zvolna a klidně kupředu – netuší nic. Drobní hraví mamutíčkové se pořád pletou starým pod nohama.
+
+</section>

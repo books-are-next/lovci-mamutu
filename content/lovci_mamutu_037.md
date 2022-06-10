@@ -3,6 +3,8 @@ title: Na mamuta
 contentType: prose
 ---
 
+<section>
+
 Oheň byl udržován po celou noc: nesměl nikdy vyhasnout. Ráno Kukačka vypravovala, co se jí při ohňové stráži v noci přihodilo. Hyena se vplížila do ležení a popadla okousanou nohu mladého tura, před časem uloveného. Zaběhla tuhle do údolí.
 
 „Tam za tím olšovím se zastavila,“ ukazovala dívka.
@@ -157,7 +159,9 @@ Jakmile se slunce dotklo země, starý lovec se stal o stopu větším, oči mu
 
 Velebí životodárné slunce:
 
-  
+</section>
+
+<section>
 
 „Slunce mé!  
 Ty mi dáváš teplo!  
@@ -167,7 +171,9 @@ Ožij mne!
 Sviť nám na bohatý lov!  
 Slunce naše!“
 
-  
+</section>
+
+<section>
 
 Když sluneční koule zmizela pod obzorem, tlupa ještě bez hlesu pohlížela k západu.
 
@@ -175,6 +181,10 @@ Potom všichni vzali kameny a vyklepávali tuhé maso. Když zvláčnělo, žv�
 
 Tma je v táboře na Bílé skále. Děti se k sobě choulí jako štěňata.
 
-  
+</section>
+
+<section>
 
 [^12]: Tam na nejvyšším bodě nynější silnice u Rokosky objevil jsem roku 1906 při kanalizačním průkopu mamutí kostru v jámě čtyři metry hluboké. Část klu a některé kosti jsem zachoval, ostatek kostry leží doposud na tom místě v zemi.
+
+</section>

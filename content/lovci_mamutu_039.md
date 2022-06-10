@@ -3,6 +3,8 @@ title: Divocí koně
 contentType: prose
 ---
 
+<section>
+
 Dvě ženy zůstaly s chorým vůdcem u malých dětí a robí z vhodných kostí hroty na oštěpy, kopí, harpuny; šídla, šipky a jehly dělají ze sobí lopatky.
 
 Mladý Stopka, jemuž medvěd rozdrásal nohu, takže ztěžka chodí, sedl si u ohniště a o kámen rozbíjí okousané sobí kosti. Mlsá morek. Nezná větší pochoutky nad toto jídlo, ačkoli mu některý hmyz, ptačí vejce nebo sobí maso dobře vyuzené nad ohněm také velmi chutná. Přitom vzpomíná na nedávné jitro, kdy hledaje jahody a med lesních včel, díval se dolů k říčce Rokytce, kde uviděl brodit se stádo divokých koní. Několik hříbat poskakovalo ještě nahoře na vršku. Chvíli se na ně díval, pak pospíchal lesíkem na Bílou skálu oznámit to tlupě. Ale těžko se mu šlo. Křičel – neslyšeli ho. Přišel už pozdě.
@@ -80,3 +82,5 @@ Tyto výkřiky vyjadřovaly nejlépe okamžitý a nelíčený dojem z nenadál
 Veselost všech zachvátila i Mamutíka, takže zapomněl na únavu a jásavě pochvaloval statečnost svých lovců. Ďarga už nemusí zahřívat žádné kameny.
 
 Mamutíkova tlupa je šťastna. Na nejistou budoucnost dnes nikdo nemyslil.
+
+</section>

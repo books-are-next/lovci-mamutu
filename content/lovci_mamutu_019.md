@@ -3,6 +3,8 @@ title: Lev
 contentType: prose
 ---
 
+<section>
+
 Po několik dní zuřila nepohoda. Lovci nemohli vycházet na lov a tlupa hladověla.
 
 Konečně utichla sněhová vichřice, vysvitlo mdlé zimní sluníčko a lovci vyšli zkusit štěstí. Čerstvá sněhová pokrývka jim usnadní vystopování zvířat.
@@ -53,7 +55,9 @@ Dráp i Zajíc přikývnutím souhlasili a hned vstali. Zabitého soba zde zat
 
 Dva sobi – pěkná kořist! Tlupa se zaraduje.
 
-  
+</section>
+
+<section>
 
 Druhá skupina lovců, vedená Rváčem, obcházela krajinu velkým obloukem. Také přišli na několikeré stopy, ale nikde nedosáhli úspěchů. Konečně objevili stopy rosomáka. Plížil se po sněhu – to jistě viděl nějakou kořist! Ten je dobře povede.
 
@@ -144,3 +148,5 @@ V jeskyni u hřejícího ohně Rváč, Nohahnát, Ukmas, Koumač a Džgan vyp
 Kopčem a Veverčák leží na břiše vedle sebe pod jednou pokrývkou; nohama ke stěně, hlavou k ohništi. Rukama si podpírají brady a vykulenýma očima hltají rozčilující vyprávění.
 
 Takového lva by chtěli někdy vidět. Ale takhle kdyby seděli v koruně vysokého stromu… Na zemi by ho potkat nechtěli!
+
+</section>

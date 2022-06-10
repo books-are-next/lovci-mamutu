@@ -3,6 +3,8 @@ title: Vynález ohně
 contentType: prose
 ---
 
+<section>
+
 Hody trvaly až do konce zimy. Zmrzlé maso se nekazilo; zdálo se, že ho ani neubývá. Jen proti lstivým rosomákům bylo těžké je ubránit. Ti se dostali všude, ať lovci skryli maso do jam, ať je pověsili na stromy, ať je zarovnali mezi balvany. A takový rosomák, když se dostal na maso, pohltil neuvěřitelné spousty. Mamutík tedy přikázal hlídat zásoby ve dne v noci.
 
 Jednou odpoledne připadla hlídka na Kopčema a Veverčáka. Hoši přešlapovali ve sněhu a nadávali na rosomáky. Kdyby se aspoň nějaký lačný rosomák přiloudal teď za dne, aby se s ním mohli pohonit! Zahřáli by se.
@@ -87,6 +89,10 @@ Kopčemův ohromný vynález zabezpečil lidem oheň vždy a všude. Kousek dř
 
 Po všem světě se lidé naučili rozněcovat oheň vrtěním dřeva. A vypravovali si v pozdějších dobách, že tomu naučil lidi jakýsi bájný hrdina, jemuž se z dřevěné pramateře zrodil oheň. A vypravovaly se o něm všelijaké pověsti po všecky doby až do našich dnů. Snad jste některou pověst o cizím Prométheovi sami také slyšeli. V této knize jste četli o našem Prométheovi, o statečném a bystrém Kopčemovi, chlapci z lovecké tlupy na Bílé skále.
 
-  
+</section>
+
+<section>
 
 Buď’te zdrávi všichni, kdož jste tyto příběhy dočetli, velcí i malí, a vězte, že je tomu dvacet až třicet tisíc let, co se to všecko u nás přihodilo.
+
+</section>

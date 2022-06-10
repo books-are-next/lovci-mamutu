@@ -3,6 +3,8 @@ title: Útěk
 contentType: prose
 ---
 
+<section>
+
 K ránu bylo citelně chladno. Ještě před rozbřeskem přiložil kdosi na ohniště silné klacky.
 
 Kopčem se přišoural blíž k ohni a zase usnul.
@@ -184,3 +186,5 @@ Kopčem je chytrý hoch, dá si pozor a půjde obezřele, aby už neztratil nab
 Jaká radost být volný!
 
 Chce najít svou tlupu. I Veverčáka, Broučka a ostatní kluky. Někdy se s nimi sice pere, ale má je rád.
+
+</section>

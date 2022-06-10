@@ -3,6 +3,8 @@ title: Vyzvědači
 contentType: prose
 ---
 
+<section>
+
 Nejbližší dny po zdařilém lovu divokých koní uplynuly vesele a v blahobytu. Kolem ohniště se válelo již množství okousaných a rozbitých koňských kostí. Lovci si nepřáli jiného, než aby tento přebytek masa trval neustále. Ráno, když se probudili, připravili si jídlo, a když se najedli, zase spali a tak činili pořád, až zásoby čerstvého masa konečně spotřebovali. Sušeného i uzeného masa bylo ještě dostatek.
 
 Tlupa se vrátila na své tábořiště na Bílé skále. Lovci se seskupili kolem ohně a líně pohlíželi na čmoudivé kotouče dýmu. Po hodech byli všichni přesyceni; mohou nyní několik dní trávit. Děti přinesly angelikové kořeny a rozdaly je lovcům. Ti je přijali s velikou libostí a hned kousali vonné, hořce chutnající kořeny této rostliny, podobné petrželi nebo kozímu pysku. Potom opět nehybně leželi. Děti si hrály. Měly mladého losa a psí štěně.
@@ -140,3 +142,5 @@ Byla jasná noc. Hvězdy svítily a neustále jich přibývalo.
 „Tu by se dobře přenocovalo!“ myslili si oba lovci a vlezli do dutého topolu, aniž si řekli slovo.
 
 Směstnali se tam, jak mohli, jeden dole, druhý o kus výše, a za chvíli spali a chrápali, až se to kolem rozléhalo.
+
+</section>

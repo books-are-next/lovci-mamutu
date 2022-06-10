@@ -3,6 +3,8 @@ title: Před Moravskou bránou
 contentType: prose
 ---
 
+<section>
+
 Tlupa přečkala v jeskyni dlouhou zimu. Zkusila mnoho hladu. Lovci se někdy po několik dnů vraceli s prázdnýma rukama a děti často žvýkaly staré kožešiny, aby oklamaly žaludek. I zlé vyrážky a vředy z oznobenin trápily tlupu. Nejhorší to bylo koncem zimy.
 
 Když pak nastalo jaro a krajina se zazelenala, rozhodl se vůdce Houžňák, že se tlupa postěhuje. Někteří lovci často připomínali na poradách u ohniště, že odtud na východ je rozsáhlá země, nízká a rovinatá, kde se asi pasou hojná stáda sobů, koní a snad i mamutů. Země podobná zvěří bohaté nížině podyjské, na niž tlupa nemůže zapomenout. Na svých pochůzkách se lovci často zadívali z kopců do dálky na východ. Něco je tam silně táhlo. Byl to neuvědomělý lovecký pud, ale lovci o tom nepřemýšleli. Zde byla nouze a unavující pobyt v těsné jeskyni, na východě kynula naděje na hojnou kořist, na volný, toulavý život – tomu rozuměli.
@@ -57,7 +59,9 @@ Však tu tlupa objevila i staré stopy putujících lovců.
 
 Třeba postupovat opatrně. Nebudou tu sami.
 
-  
+</section>
+
+<section>
 
 Známá trojice, Kopčem, Veverčák a Sova, byla jako výzvědná hlídka hodně vpředu.
 
@@ -210,3 +214,5 @@ Oheň rozdělat nesmějí.
 Děti se krčí u svých matek v houštině za větrem. Kopčem tu není; nikdo neví, kde se ztratil.
 
 Strážce nastupuje hlídku a lovci usínají se zbraněmi v rukou.
+
+</section>

@@ -3,6 +3,8 @@ title: "V\_zajetí"
 contentType: prose
 ---
 
+<section>
+
 Plochá, mírně zvlněná planina se táhne do velké dálky. Je porostlá trávou a mechem, tu a onde i křovinami vrbovými, olšovými a březovými. Místy bujejí nedohledné palouky jahodové, vřesové a brusinkové.
 
 Ve všech sníženinách půdy se lesknou hladiny větších i drobných jezer a mělkých řek.
@@ -78,3 +80,5 @@ Ach kde jsou silný Mamutík, Dráp, Huňáč a jiní stateční lovci? Kéž b
 Nahý hoch se schoulil do klubíčka a tiše zaplakal.
 
 Oheň svítil tmou už bez plamenů. Jen když noční větřík zafoukal, rozeplály se nahromaděné žhavé uhlíky a jiskry vylétly skoro až k spícímu hochovi.
+
+</section>

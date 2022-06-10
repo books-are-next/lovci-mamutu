@@ -3,6 +3,8 @@ title: Uloupená dívka
 contentType: prose
 ---
 
+<section>
+
 Lovec Huňáč je nejlepším stopařem v tlupě. Už třetí den pronásleduje houfek sobů, kteří postupují z polabských bažin na letní pastvu do vyšších poloh jihočeských.
 
 Huňáč, nejspíše proto tak pojmenovaný, že byl po těle ještě víc zarostlý než ostatní lovci, přeběhl přikrčen od houštiny k houštině, a skryt pod listnatými větvemi, napjatě pozoruje neklidná zvířata.
@@ -98,3 +100,5 @@ Ale když po chvíli, přeskakujíc stružku, pocítila, že ji uchvatitel nedr�
 Lovec z ní strhl kožešinu a nabral do ní vodu v nedalekém potůčku. Polil dívku a zatřepal jí hlavou. Lasička vzhlédla a za lovcovy pomoci povstala. Pak se už dala vést bez odporu.
 
 Byla přemožena. Ví, co ji čeká. Bude ženou mladého lovce, který ji uloupil.
+
+</section>
