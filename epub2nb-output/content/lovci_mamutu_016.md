@@ -3,6 +3,8 @@ title: "Boj s\_medvědem"
 contentType: prose
 ---
 
+<section>
+
 Na skalním výstupku před jeskyní sedí Rváč. Dívá se do údolí osvětleného měsícem a hlídá. Očekává vlky. Ale vlci se zatím drží pořád ještě v dálce. Nablízku se nic nehýbá, nic není slyšet. Jen sova někdy zahouká.
 
 Rváč si tiše pomručuje, jako by sám sobě něco povídal. Je nespokojený s dnešním neúspěšným lovem. Nebýt lumíků, ani by byl nic nepřinesl… A to chtěl být náčelníkem? Odplivl si.
@@ -144,3 +146,5 @@ Zvenčí bylo slyšet slabé kňourání.
 Mamutík, lehce raněný, vylezl z jeskyně a šel po hlase. Za chvíli přinesl malého Pipláka, prochladlého a pláčem úplně vysíleného, a položil ho k mámě.
 
 Paprsek vycházejícího slunce našel v jeskyni loveckou tlupu ponořenou v uklidňující spánek.
+
+</section>

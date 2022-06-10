@@ -3,6 +3,8 @@ title: Velký boj
 contentType: prose
 ---
 
+<section>
+
 Slavné dny bohatých hodů se schýlily ke konci. Hubení lovci nebyli teď k poznání, jak se spravili. Dokonce je jim i břicha již znát. Ale to nic není proti ženám, jak ty ztloustly! Tváře se jim blyští, při chůzi se jen kolébají a nejmenší běh jim působí obtíže. Dlouho po něm funí a těžce oddychují. Děti jsou jako cvalíci. Maso už ani nechtějí a žvýkají jako po­choutku všelijaké nakyslé a hořké listí, šťovík, šťavel a opečená pláňata.
 
 Masa uzeného a sušeného je ještě poslední hromada. Lovci se jen líně povalují a hlídají zásoby před liškami, vlky a rosomáky.
@@ -87,7 +89,9 @@ Domácí tlupa hned přinášela dary svým osvoboditelům a uctívala je, jak 
 
 I tak mnohý obránce osady padl. Snášeli mrtvé na hromadu a nad každým naříkavě bědovali. Vykřikovali jeho slavné činy a zlořečili jeho vrahovi. Nejvíce naříkali nad mrtvolou svého náčelníka, který hrdinsky padl v čele svých bojovníků. Usadili se kolem jeho těla, dali mu do rukou jeho sekyru, a kývajíce do taktu hlavami, zpívali tahavými hlasy nekonečnou píseň beze slov o několika málo tónech.
 
-  
+</section>
+
+<section>
 
 Ženy ošetřily zraněné bojovníky, jak dovedly. Přiložily jim na rány rozžvýkané listí kostivalu a jitrocele, obalily je velkými chladivými listy a ovázaly pásky z kůry stromků. Ti ani mnoho nenaříkali bolestí, ačkoli někteří měli těžké rány. Snášeli je tupě a s odevzdáním v osud. Kdo se uzdraví, dobře, bude zase lovit; kdo nevydrží, zemře – nelze jinak.
 
@@ -259,8 +263,12 @@ Vyzvědači pobízeli tlupu, aby táhla ještě dále k západu. Tam jsou krás
 
 Tedy dále za sluncem!
 
-  
+</section>
+
+<section>
 
 [^10]: Tento hromadný hrob byl objeven ve světoznámém tábořišti lovců mamutů v Předmostí u Přerova roku 1891.
 
 [^11]: Je to chlum Hradisko v Předmostí u Přerova. Tehdy tekla Bečva kolem jeho paty.
+
+</section>

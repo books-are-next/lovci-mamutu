@@ -3,6 +3,8 @@ title: Na výpravě
 contentType: prose
 ---
 
+<section>
+
 Huňáč se Zajícem šli potichu lesem. Každý měl kus masa navlečený na řemeni a přivázaný k pasu. Občas se do masa zakousli, pazourkovým nožíkem kousek odřízli a pak ho dlouho žvýkali. Měsíc dosti osvětloval krajinu i řidší porost v lese.
 
 „Kam jdeme?“ optal se Zajíc zkušenějšího druha. „Vždyť kráčíme touže cestou, kterou jsme prve pronásledovali pomalovaného cizince s Lasičkou!“
@@ -276,3 +278,5 @@ Kam zmizeli?
 Tohle je nad jejich chápavost.
 
 Mlčí chytrý Had, nemluví zkušený Čáp, mlčí silný Býk, nemluví bystrý Ostříž… Jen ušima stříhají.
+
+</section>

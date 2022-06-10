@@ -3,6 +3,8 @@ title: "Hoch a\_mamut"
 contentType: prose
 ---
 
+<section>
+
 Hubený chlapec, do temna opálený, s velikou rozkoší olizoval konec větve, kterou držel v ruce. Před chvílí vyhrábl se svým druhem ze skalní skuliny medovou plástev lesních včel. Oba odběhli se sladkou kořistí dosti daleko, ale několik včel přece za nimi přiletělo. Hoch se ohnal dřevem a běží dále. Ohlíží se. Kam se poděl jeho věrný druh Veverčák? Kam jen utekl?
 
 Jak lahodný je med! Nevídáno o nějaké včelí žihadlo!
@@ -126,3 +128,5 @@ Jinak si Kopčema už nikdo nevšímal.
 Chladný větřík zavál od jezera. Kdo byl dále od ohně, přikrčil se do kožešiny a tiše ležel. Nahé děti zalezly do rozestřené suché trávy. I Kopčem usnul okřívajícím spánkem.
 
 Měsíc obráží svůj lesklý kotouč v jezeře, jehož protější břehy v párách splývají s oblohou.
+
+</section>

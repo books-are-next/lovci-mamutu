@@ -3,6 +3,8 @@ title: Návrat
 contentType: prose
 ---
 
+<section>
+
 V Houžňákově tlupě je hlad a smutek.
 
 Marně slídili po kořisti.
@@ -86,3 +88,5 @@ A Kopčem zas dává kosti Veverčákovi.
 Vítr roznáší vůni masa do daleka. Vlci přibíhají s čenichy vysoko pozdviženými.
 
 I na ně se dostane.
+
+</section>

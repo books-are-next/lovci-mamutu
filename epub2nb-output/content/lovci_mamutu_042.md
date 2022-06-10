@@ -3,6 +3,8 @@ title: Cizí lovci
 contentType: prose
 ---
 
+<section>
+
 Zatím v ležení na Bílé skále očekávali návrat vyzvědačů. Pohlíželi přes pražské jezero k vysokému Petřínu a k Bílé hoře, objeví-li se snad nějaké znamení v dálce.
 
 Uplynulo několik dní a vyslanci se nevraceli. U táborového ohně se mluvilo již o tom, že snad zahynuli.
@@ -227,6 +229,10 @@ Obličeje všech členů tlupy září spokojeností a kolem úst jim stékají
 
 Jak šťastné jsou dny hojnosti!
 
-  
+</section>
+
+<section>
 
 [^14]: Rušit – vyvrhovat.
+
+</section>

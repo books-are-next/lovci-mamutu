@@ -3,6 +3,8 @@ title: Ohnivý kámen
 contentType: prose
 ---
 
+<section>
+
 Ranění lovci se vystonali kupodivu dost brzy. I těžké rány se jim rychle hojily a jen veliké jizvy po nich zůstaly. I Huňáč se konečně uzdravil. Naštěstí neměl oči poškozené; z toho se radoval nejvíce. Nic nedbal, že se mu ošklivě rozrytá tvář teď ustavičně šklebí.
 
 Jeden z lovců zemřel. Velikou medvědí kožešinu dostal vůdce Houžňák a špičáky Mamutík; zavěsil si je provrtané na hrdlo. Bude silný jako medvěd.
@@ -205,10 +207,14 @@ Kopčem sedí u praskajícího ohně. V ruce drží prut, kterým rovná hoř�
 
 Je šťasten.
 
-  
+</section>
+
+<section>
 
 [^6]: Pazourek (křesací kámen), odrůda křemene, vyskytuje se v podobě hlíz (pecek, valounů) zarostlých do křídových skal na pobřeží Baltského moře a průlivu La Manche, ojediněle i ve vápencových skálách u Brna (Olomoučany, Rudice). Je obyčejně neprůhledný, někdy průsvitný až průhledný. Jeho úlomky bývají ostré jako sklo. Křesán ocelí nebo železným kyzem dává jiskry, jimiž lze zapálit oheň.
 
 [^7]: Mezi archeology zvaný podle tvaru „vavřínový list“.
 
 [^8]: Ohnivý kámen = kyz železný, pyrit. Vyskytuje se hojně zejména v uhelných ložiskách (Kladno aj.) a v žilách rud (Příbram, Kutná Hora, Banská Štiavnica, Jílové). Křesán jiskří.
+
+</section>

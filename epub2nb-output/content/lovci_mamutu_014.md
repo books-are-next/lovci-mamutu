@@ -3,6 +3,8 @@ title: Do nových lovišť
 contentType: prose
 ---
 
+<section>
+
 Nepřátelská skupina dorazila druhého dne až skoro k ústí nynější Česavy do Svratky. Lovci vystoupili na kopec, kterým končí táhlý hřeben vroubící levý břeh Svratky. Z vrchu se rozhlíželi po rozsáhlé svratecké rovině, jež se tu kopcem dělí na dvě části.
 
 Od severu z nedohledné dálky přitéká sem skoro úplně rovná Svratka. Právě pod kopcem, na nejužším místě nížiny, zahýbá sem od východu Česava a vlévá se do Svratky. Obě řeky jsou spojeny ještě i bažinami a jsou značnou překážkou v cestě. Proto se cizí lovci domnívali, že se věstonická tlupa dala asi lepší cestou přes táhlý vrch. Když se však shora dívali do krajiny, uviděli, jak se prchající tlupa již brodí přes Česavu a jak mizí v houštinatém porostu za řekou.
@@ -17,7 +19,9 @@ Ostatně se nevracejí zcela bez úspěchu. Jednoho raněného lovce z věstoni
 
 Lovci jdou v řadě za sebou a rukama mačkají neodbytné komáry.
 
-  
+</section>
+
+<section>
 
 Teprve pahorky kolem nynějšího Brna ukončily děsivý útěk věstonické tlupy. Bylo tu sdostatek bezpečných úkrytů v lesnatých údolích a ve skalnatých roklích zdejších řek. Lovci si oddechli, když pohlíželi z Petrova zpět k poledni a po řece do nekonečné nížiny. Ani nejbystřejší lovec nespatřil nejmenší známky po pronásledovatelích.
 
@@ -121,7 +125,9 @@ Jaká to nová pohroma zase stihla věstonickou tlupu! Její síla je oslabena.
 
 V tlupě je těžký smutek.
 
-  
+</section>
+
+<section>
 
 Druhého dne vyhledali mrtvolu nebohého Klucha, jemuž nosorožec rozpáral břicho. Pochovali ho nedaleko místa jeho smrti, někde uprostřed mezi kopcem Špilberkem a křivotokou Svitavou. Nechali mu jeho skvostný náhrdelník: několik set trubiček z přiřezaných lasturek a kostěných koleček, navlečených na tenkém řemínku.[^5] Nežli byl hrob zasypán, položila uplakaná Kluchova družka k mrtvému panáka na půl lokte vysokého, kterého kdysi Kluch pracně vyřezal z mamutího klu. Žena nosila tuto loutku jako kouzlo stále ve vaku, nikdy se od ní neodloučila a věřila, že se jí mocí toho kouzla narodí veselý klučina. Teď v pláči kladla loutku do hrobu a loučila se se všemi svými nadějemi.
 
@@ -163,6 +169,10 @@ Neposedné děti už jsou opět venku – mámy je vyhnaly –, pasou se na bor
 
 Věstonická tlupa našla nový domov.
 
-  
+</section>
+
+<section>
 
 [^5]: Hrob byl nalezen v Brně roku 1891 i se zmíněnými drobnostmi při kopání kanalizace v nynější Francouzské třídě.
+
+</section>

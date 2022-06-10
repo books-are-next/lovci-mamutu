@@ -3,6 +3,8 @@ title: Statečný jinoch
 contentType: prose
 ---
 
+<section>
+
 V Mamutíkově tlupě bylo smutno.
 
 Uloveného soba nelze upéci… Kdo jednou přivykl pečenému a uzenému masu, nerad potom žvýká jen a jen syrové, houževnaté maso.
@@ -142,3 +144,5 @@ Děti, ženy i lovci doprovázejí náčelníkův dar zvýšeným křikem a j�
 Veverčák se stal hrdinou dne.
 
 Tlupa se na něm jednou dočká slavných skutků, o nichž se bude dlouho vypravovat u táborových ohňů.
+
+</section>

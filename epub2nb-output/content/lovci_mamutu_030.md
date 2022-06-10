@@ -3,6 +3,8 @@ title: Na Zlatém potoce
 contentType: prose
 ---
 
+<section>
+
 Děti se bavily zajímavou hrou u potůčku. Stavěly hráz z kamení a dělaly si rybníčky z nadržené vody. Pokoušely se také chytit malé rybičky. Umazaný Cebík se přitom převalil do rybníčku a teď brečí a prská vodu.
 
 Kukačka ho utěšuje a ukazuje mu hezké kamínky v potoce. Děti tu v písku nacházejí hojná lesklá zrnéčka, sem tam i větší žluté kousky. Krásně svítí a děti jich za malou chvíli nasbíraly hromádku. I v kamenech, z kterých stavějí hráze v potůčku, třpytí se lesklá zrnka.
@@ -134,3 +136,5 @@ Had se skrčený doplížil do křoví, tam se vztyčil a udělal posměšný p
 Zmizel v houštinách a Lasička s ním.
 
 Z lesa vyletěla sova; namířila k táboru, ale pak zahnula někam do daleké stepi nalovit si myši.
+
+</section>

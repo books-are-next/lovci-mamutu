@@ -3,6 +3,8 @@ title: Ztracená kořist
 contentType: prose
 ---
 
+<section>
+
 Ještě chvíli – a velký zápas začne.
 
 Pojednou zpozoroval Mamutík v zadnějších skupinách stáda živý ruch. Mamuti se tam plaší, vybíhají z prošlapané uličky a hlučně troubí.
@@ -156,3 +158,5 @@ Vítr zašuměl v mlází a pohybuje větvičkami.
 Měsíc, napolo zastřený mráčky, slabě osvěcuje ležící uprchlíky. Již nikdy se tlupa nevrátí k Dyji pod Pavlovské vrchy.
 
 Silnější vítězí; slabší ustoupí, nebo zhyne.
+
+</section>

@@ -3,6 +3,8 @@ title: Hlad
 contentType: prose
 ---
 
+<section>
+
 Lovecká tlupa přečkala na Bílé skále i zimu. Pokusila se sice vyhledat si nové loviště při ústí Vltavy a Labe, byla však zle zahnána zpět silnou tlupou polabskou. Lovci z tábořiště na Jenerálce odtáhli do neznámé končiny. Obyvatelé prokopské jeskyně tam sice ještě pobývali, ale nuzně živořili. Jejich tlupa se rozpadla v rozbrojích o ženy a bídně se potulovala po jeskyních u Radotína a dále po levém břehu Mže.
 
 Zima je tentokrát velmi tuhá a dlouhá; tlupě na Bílé skále se vede již velmi zle. Není kořist a hladoví lovci se vracejí do tábora s prázdnou. Děti dostávají vyrážku a bolestivé vředy; také dospělí lovci jimi trpí. Všichni si utahují řemeny přes břicha a žvýkají starou kůži, stromovou kůru, ba i hlínu. Ochočeného psíka, miláčka dětí a své první domácí zvíře, dávno již snědli.
@@ -71,7 +73,9 @@ Vyjevený Kopčem vidí, jak šílené stádo letí mimo a pak se ztrácí jeho
 
 Vzpomíná, jak přede dvěma slunci (dny) našel v tichém úžlabu rybku zamrzlou v ledu a jak potom v doupěti led roztál a jak se mu zdálo, že oživlá rybka se hýbá… Všecky děti se k tomu seběhly! – A pak rybka, na proutek navlečená a nad ohněm opečená, byla jeho posledním jídlem.
 
-  
+</section>
+
+<section>
 
 Chumelenice přestává a jasnícími se mraky se prodírá zamžené slunéčko.
 
@@ -137,6 +141,10 @@ Jsou zachráněni.
 
 Již se dočkají nového jara.
 
-  
+</section>
+
+<section>
 
 [^15]: Zde, v nynější cihelně Na Báni, byl roku 1908 při odkopávání žlutky nalezen pazourkový hrot z oštěpu, dosud jediný v Čechách. Je tvaru vavřínového listu. Kromě toho se tu našlo mnoho kostí diluviálních zvířat.
+
+</section>

@@ -3,6 +3,8 @@ title: Útok zubrů
 contentType: prose
 ---
 
+<section>
+
 Z lesíka pod horským pásmem vyšlo několik velikých zvířat. Podle vysoké a mohutné přední části těla bylo i z dálky snadné uhodnout, že to jsou zubři, bizoni.
 
 Napřed vystoupil silný býk, za ním tři krávy a tele. Býk se zastavil u osamělé borovice a podrbal se o ni. Pak v přebytku síly nasadil rohy u země, mocně trhl hlavou a rozčísl kůru stromu od kořenů nahoru, takže z kmene rázem visely dlouhé cáry kůry. Býk sklonil hlavu ještě jednou, aby svůj výkon opakoval, ale stanul s ohonem nataženým. Jeho tmavé oči několikrát zamžikaly…
@@ -160,3 +162,5 @@ Myslí na matku. Zubři ji tlupě vzali. Život za život.
 Kopčem usedá na skalisko vyčnívající ze země a hledí na nešťastnou tůň. Nešťastnou? Vždyť dala tlupě vítanou kořist…! Jeho matka však zahynula. Jak se o něho odmalička starala! U ní vždycky našel útočiště…
 
 „Mámo, mámo!“ kňučivě zaznívá z hochových úst. Kopčem se neutěšeně rozvzlykává. Hrubého, skoro necitelného hocha přemáhá láska k matce – první probuzený společenský cit pravěkého člověka.
+
+</section>

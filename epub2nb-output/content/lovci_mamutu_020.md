@@ -3,6 +3,8 @@ title: "V\_jícnu Macochy"
 contentType: prose
 ---
 
+<section>
+
 Lovci dlouho besedovali a dlouho jedli. Pečené sobí maso vonělo z jeskyně tak, že lišky a vlci pobíhali do rána okolo.
 
 Noční mráz ověsil stromy i keře bělostnou, třpytivou jinovatkou.
@@ -235,6 +237,10 @@ Děti usínaly. K ránu i Kopčem a Veverčák usnuli vsedě, opřeni o stě
 
 Venku se rozsypala hustá chumelenice.
 
-  
+</section>
+
+<section>
 
 [^9]: Světoznámá propast Macocha, hluboká 138 metrů. Hořejší obvod jícnu měří 440 metrů.
+
+</section>

@@ -3,6 +3,8 @@ title: Lumíci
 contentType: prose
 ---
 
+<section>
+
 Kopčem s Veverčákem nechali malé děti pást se na borůvkách a na malinách a šli prozkoumat okolí nového sídliště.
 
 Napili se z potoka a znova pátrali, jak se ztrácí v zemi. Hledali, kde je nějaká díra, do níž potok vtékal, ale žádnou nenašli. Viděli jen, že se voda pojednou začíná víc a víc ztrácet a že po několika krocích je řečiště potoka úplně suché. Kopčem odhrabal několik kamenů, ale žádná díra pod nimi nebyla.
@@ -180,3 +182,5 @@ Bledé měsíční světlo osvětlovalo stráně údolí, v němž se vznášel
 Na osvětlené skále zavyl osamělý vlk. Zdola mu jiní vlci odpověděli. Dráždil je zápach krve, vanoucí od jeskyně. Byl však smíšen se zlým pachem mnoha lidí… Vlci jsou rozčileni, ale blízko k jeskyni si netroufají.
 
 První noc věstonické tlupy v jeskynním území.
+
+</section>

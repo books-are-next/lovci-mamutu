@@ -3,6 +3,8 @@ title: Výměnný obchod
 contentType: prose
 ---
 
+<section>
+
 Hned druhého dne se náčelník ustanovil na tom, že tlupě je nutně potřebí obnovit zásobu pazourkového kamene. Masa mají nyní hojnost, připraví si tedy i zbraně a nástroje, nežli přijde krutá zima.
 
 Mamutík dal složit bohatství své tlupy, sobí parohy a rozličné kožešiny, a poslal s tímto nákladem čtyři muže na cestu za výměnným obchodem. Převezli je přes jezero kolem ostrova až na Letnou. Odtamtud šli poslové s nacpanými ranci na hlavách pěšky přes Petřín a dále k jihu, kde v údolí Dalejského potoka vystupoval toho léta modravý dým z tábořiště spřátelené tlupy.
@@ -53,6 +55,10 @@ Starší lovci s uspokojením pohlíželi na čilý dorost.
 
 Mamutík přemýšlí o skalních medvědech.
 
-  
+</section>
+
+<section>
 
 [^13]: Roku 1883 našel ředitel Kořenský v této jeskyni (nyní už zničené) lidské kosti s kostmi sobími. (Nález je v Národním muzeu.)
+
+</section>

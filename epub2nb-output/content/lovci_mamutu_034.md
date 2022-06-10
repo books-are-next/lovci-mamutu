@@ -3,6 +3,8 @@ title: Nový oheň
 contentType: prose
 ---
 
+<section>
+
 Slunce zašlo. Červánky ozdobují téměř půl oblohy.
 
 Nedaleko ležení vede koroptev svou mladou rodinku k nočnímu spánku.
@@ -151,7 +153,9 @@ Mamutík přivoněl k opečené medvědí tlapě, pofoukal ji a silnými zuby 
 
 Všichni přítomní pochvalně zamručeli. Huňáčovi se dostalo od náčelníka nejvyššího vyznamenání. Však Huňáč je největší hrdina tlupy, přinesl oheň, zachránil druha.
 
-  
+</section>
+
+<section>
 
 Toho dne a ve dnech dalších měla Mamutíkova tlupa hody. Masa bylo hojnost. Obličeje lovců se stále blyštěly a mastnota jim stékala po bradě. Hlasitým škytáním vyjadřovali žrouti svou blaženost. Ženy musily co chvíli přinášet hořké kořeny a mladé pupeny jeřábu, příjemně chutnající po hořkých mandlích, pro vytrávení přecpaných žaludků.
 
@@ -254,3 +258,5 @@ Mamutík vzal kámen do ruky a chvilku jím v dlani pohazoval. Pak zahlédl za
 Potom vzal děcko za ručky a vyhazoval je vysoko nad hlavu, že se máma až lekala. Ale děcko křičelo radostí.
 
 Zlato? – Hračka pro děti!
+
+</section>

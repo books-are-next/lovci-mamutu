@@ -3,6 +3,8 @@ title: "V\_zimě"
 contentType: prose
 ---
 
+<section>
+
 Po krátké jeseni přišla tuhá zima. Zvěř zalezla do doupat a jen hlad ji pudil na sníh.
 
 Obleva sice rozmočila sněhovou pokrývku a studené deště naplnily všechen povrch zemský nepříjemnou vlhkostí, ale nový obrat povětrnosti opět přinesl mrazíky a hojnost nového sněhu.
@@ -77,7 +79,9 @@ V jeskyni Houžňák vyhlásil, že děti už nesmějí samy ven.
 
 Lasička a Vlčice položily na ohniště dlouhé kosti. Tučné kosti dobře hoří. Ať se děti ohřejí!
 
-  
+</section>
+
+<section>
 
 Od toho dne zůstávaly děti v jeskyni napořád. Vymýšlely si všelijaké hry.
 
@@ -178,3 +182,5 @@ Medvědí čelist je velmi cenná a poslouží tlupě jako kladivo i klín př
 Ženy sešívaly u ohně vlčí kožešiny. Ani by byly nezpozorovaly, že se stmívá, kdyby stará Vrba nebyla naříkala na bolavé oči.
 
 V zimě den rychle uběhne.
+
+</section>

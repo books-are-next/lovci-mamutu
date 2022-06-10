@@ -3,6 +3,8 @@ title: Za tlupou
 contentType: prose
 ---
 
+<section>
+
 Nohy už Kopčema tuze bolí. Rad by si odpočinul. Ale cítí dobře, že se rozpláče, jestli si sedne.
 
 Nu, snad ještě kousek vydrží. Aspoň tam k těm tmavým borovicím dojde. Zde je beztoho mokro, samý močál. Kopčem se někdy zaboří až po kolena, že sotva nohu vytáhne.
@@ -142,3 +144,5 @@ Stýskalo se mu po tlupě.
 Je tu tak sám a sám!
 
 Nemohl by žít bez tlupy.
+
+</section>
