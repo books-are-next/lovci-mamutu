@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "storch-lovci-mamutu-9b5f61b",
-  "revision": "9b5f61b",
+  "identifier": "storch-lovci-mamutu-e7a50fd",
+  "revision": "e7a50fd",
   "readingOrder": [
     "promo.html",
     "lovci_mamutu_005.html",
@@ -56,8 +56,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:52:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883534303
+    "date": "Sat Jun 11 2022 12:06:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949175057
   },
   "documents": [
     {
