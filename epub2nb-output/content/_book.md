@@ -14,6 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2468-9
+  contentType: prose
 readingOrder:
   - promo.html
   - lovci_mamutu_005.html

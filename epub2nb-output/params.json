@@ -10,7 +10,8 @@
       "subtitle": "Román z pravěku",
       "publisherShort": "mkp",
       "edition": "beletrie",
-      "isbn": "978-80-274-2468-9"
+      "isbn": "978-80-274-2468-9",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven1-cast\nMLP-uroven2-kapitola",
@@ -888,6 +889,6 @@
       "user": "books-are-next",
       "repo": "lovci-mamutu"
     },
-    "generatedAt": 1655271452021
+    "generatedAt": 1655364213308
   }
 }
