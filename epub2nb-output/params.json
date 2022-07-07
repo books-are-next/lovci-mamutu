@@ -63,7 +63,7 @@
             "filename": "lovci_mamutu_003.md",
             "xhtml": "lovci_mamutu_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "title": "",
             "subtitle": "",
@@ -74,7 +74,7 @@
             "filename": "lovci_mamutu_004.md",
             "xhtml": "lovci_mamutu_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "title": "",
             "subtitle": "",
@@ -530,7 +530,7 @@
             "filename": "lovci_mamutu_045.md",
             "xhtml": "lovci_mamutu_045.xhtml",
             "id": 44,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "title": "",
             "subtitle": "",
@@ -889,6 +889,6 @@
       "user": "books-are-next",
       "repo": "lovci-mamutu"
     },
-    "generatedAt": 1655979042251
+    "generatedAt": 1657182148277
   }
 }
