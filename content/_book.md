@@ -57,7 +57,7 @@ readingOrder:
   - lovci_mamutu_042.html
   - lovci_mamutu_043.html
   - lovci_mamutu_044.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
