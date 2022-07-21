@@ -9,8 +9,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "storch-lovci-mamutu-7cb8e35",
-  "revision": "7cb8e35",
+  "identifier": "storch-lovci-mamutu-330d2b3",
+  "revision": "330d2b3",
   "readingOrder": [
     "promo.html",
     "lovci_mamutu_005.html",
@@ -56,8 +56,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:02:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188169633
+    "date": "Thu Jul 21 2022 14:37:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414246150
   },
   "documents": [
     {
@@ -876,7 +876,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 137,
-      "chars": 895,
+      "chars": 896,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -896,7 +896,7 @@
   "totals": {
     "all": {
       "words": 66201,
-      "chars": 394774,
+      "chars": 394775,
       "ideas": 2681
     },
     "chapters": {
